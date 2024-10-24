@@ -1,0 +1,4496 @@
+{
+  "generalcategory": [
+    {
+      "id": "1",
+      "name": "Bags",
+      "slug": "bags"
+    },
+    {
+      "id": "ab24",
+      "name": "Belts",
+      "slug": "belts"
+    },
+    {
+      "id": "851e",
+      "name": "Blazers",
+      "slug": "blazers"
+    },
+    {
+      "id": "68c5",
+      "name": "Bodysuits",
+      "slug": "bodysuits"
+    },
+    {
+      "id": "7673",
+      "name": "Bras",
+      "slug": "bras"
+    },
+    {
+      "id": "ecfb",
+      "name": "Capes",
+      "slug": "capes"
+    },
+    {
+      "id": "9634",
+      "name": "Cardigans",
+      "slug": "cardigans"
+    },
+    {
+      "id": "d551",
+      "name": "Dresses",
+      "slug": "dresses"
+    },
+    {
+      "id": "d520",
+      "name": "Fragrance",
+      "slug": "fragrance"
+    },
+    {
+      "id": "ab5d",
+      "name": "Gloves",
+      "slug": "gloves"
+    },
+    {
+      "id": "b747",
+      "name": "Hats",
+      "slug": "hats"
+    },
+    {
+      "id": "2fce",
+      "name": "Hoodies + Sweatshirts",
+      "slug": "hoodies-sweatshirts"
+    },
+    {
+      "id": "22b3",
+      "name": "Jackets + Coats",
+      "slug": "jackets-coats"
+    },
+    {
+      "id": "d655",
+      "name": "Jeans",
+      "slug": "jeans"
+    },
+    {
+      "id": "b4fa",
+      "name": "Jewellery",
+      "slug": "jewellery"
+    },
+    {
+      "id": "7f5e",
+      "name": "Luggage",
+      "slug": "luggage"
+    },
+    {
+      "id": "ad07",
+      "name": "Pants",
+      "slug": "pants"
+    },
+    {
+      "id": "5ea4",
+      "name": "Polos",
+      "slug": "polos"
+    },
+    {
+      "id": "f2a9",
+      "name": "Scarves",
+      "slug": "scarves"
+    },
+    {
+      "id": "a005",
+      "name": "Shirts",
+      "slug": "shirts"
+    },
+    {
+      "id": "7357",
+      "name": "Shoes",
+      "slug": "shoes"
+    },
+    {
+      "id": "7965",
+      "name": "Shorts",
+      "slug": "shorts"
+    },
+    {
+      "id": "9743",
+      "name": "Skirts",
+      "slug": "skirts"
+    },
+    {
+      "id": "e2a1",
+      "name": "Sleepwear",
+      "slug": "sleepwear"
+    },
+    {
+      "id": "a63e",
+      "name": "Socks",
+      "slug": "socks"
+    },
+    {
+      "id": "7da1",
+      "name": "Sunglasses",
+      "slug": "sunglasses"
+    },
+    {
+      "id": "d9fd",
+      "name": "Sweaters",
+      "slug": "sweaters"
+    },
+    {
+      "id": "bfd1",
+      "name": "Sweatpants + Joggers",
+      "slug": "sweatpants-joggers"
+    },
+    {
+      "id": "dd37",
+      "name": "Swim",
+      "slug": "swim"
+    },
+    {
+      "id": "44ab",
+      "name": "T-Shirts",
+      "slug": "t-shirts"
+    },
+    {
+      "id": "cdeb",
+      "name": "Underwear",
+      "slug": "underwear"
+    },
+    {
+      "id": "172b",
+      "name": "Wallets",
+      "slug": "wallets"
+    },
+    {
+      "id": "2480",
+      "name": "Watches",
+      "slug": "watches"
+    },
+    {
+      "id": "53d8",
+      "name": "Umbrellas",
+      "slug": "umbrellas"
+    }
+  ],
+  "category": [
+    {
+      "id": "2",
+      "name": "Men",
+      "slug": "men",
+      "img": "http://res.cloudinary.com/djlix30nq/image/upload/v1728400054/p4x7lbj46lvmdqdfjbxe.webp"
+    },
+    {
+      "id": "3",
+      "name": "Women",
+      "slug": "women",
+      "img": "http://res.cloudinary.com/djlix30nq/image/upload/v1728400143/vq923oxwqc5k7drrnmwr.webp"
+    },
+    {
+      "id": "4",
+      "name": "Kids",
+      "slug": "kids",
+      "img": "http://res.cloudinary.com/djlix30nq/image/upload/v1728400181/bmv7mafdv9xb6qqpovfi.webp"
+    },
+    {
+      "id": "6",
+      "name": "Underwear",
+      "slug": "underwear",
+      "img": "http://res.cloudinary.com/djlix30nq/image/upload/v1728400265/fufnllv0jx3ddsbcuqwa.webp"
+    },
+    {
+      "id": "7",
+      "name": "Tommy Jeans",
+      "slug": "tommy-jeans",
+      "img": "http://res.cloudinary.com/djlix30nq/image/upload/v1728400300/vnymgu4gwgsbldzkyber.webp"
+    }
+  ],
+  "sub": [
+    {
+      "name": "Featured",
+      "categoryId": 2,
+      "id": "1"
+    },
+    {
+      "name": "Clothing",
+      "categoryId": 2,
+      "id": "2"
+    },
+    {
+      "name": "Shoes & Accessories",
+      "categoryId": 2,
+      "id": "3"
+    },
+    {
+      "name": "Underwear",
+      "categoryId": 2,
+      "id": "4"
+    },
+    {
+      "name": "Tommy Jeans",
+      "categoryId": 2,
+      "id": "5"
+    },
+    {
+      "name": "Featured",
+      "categoryId": 3,
+      "id": "7"
+    },
+    {
+      "name": "Clothing",
+      "categoryId": 3,
+      "id": "8"
+    },
+    {
+      "name": "Shoes & Accessories",
+      "categoryId": 3,
+      "id": "9"
+    },
+    {
+      "name": "Underwear",
+      "categoryId": 3,
+      "id": "10"
+    },
+    {
+      "name": "Tommy Jeans",
+      "categoryId": 3,
+      "id": "11"
+    },
+    {
+      "name": "Featured",
+      "categoryId": 4,
+      "id": "12"
+    },
+    {
+      "name": "Boys",
+      "categoryId": 4,
+      "id": "13"
+    },
+    {
+      "name": "Girls",
+      "categoryId": 4,
+      "id": "14"
+    },
+    {
+      "name": "Baby",
+      "categoryId": 4,
+      "id": "15"
+    },
+    {
+      "name": "Men",
+      "categoryId": 6,
+      "id": "16"
+    },
+    {
+      "name": "Women",
+      "categoryId": 6,
+      "id": "17"
+    },
+    {
+      "name": "Men",
+      "categoryId": 7,
+      "id": "18"
+    },
+    {
+      "name": "Women",
+      "categoryId": 7,
+      "id": "19"
+    }
+  ],
+  "subcategory": [
+    {
+      "name": "New Arrivals",
+      "slug": "new-arrivals",
+      "categoryId": 2,
+      "subId": 1,
+      "id": "1"
+    },
+    {
+      "name": "Tommy Essentials",
+      "slug": "tommy-essentials",
+      "categoryId": 2,
+      "subId": 1,
+      "id": "2"
+    },
+    {
+      "name": "Gifts for Him",
+      "slug": "gifts-for-him",
+      "categoryId": 2,
+      "subId": 1,
+      "id": "3"
+    },
+    {
+      "name": "Adaptive",
+      "slug": "adaptive",
+      "categoryId": 2,
+      "subId": 1,
+      "id": "4"
+    },
+    {
+      "name": "Shop All",
+      "slug": "shop-all",
+      "categoryId": 2,
+      "subId": 2,
+      "id": "5"
+    },
+    {
+      "name": "Tops & Sweaters",
+      "slug": "tops-sweaters",
+      "categoryId": 2,
+      "subId": 2,
+      "id": "6"
+    },
+    {
+      "name": "Bottoms",
+      "slug": "bottoms",
+      "categoryId": 2,
+      "subId": 2,
+      "id": "7"
+    },
+    {
+      "name": "Jackets & Coats",
+      "slug": "jackets-coats",
+      "categoryId": 2,
+      "subId": 2,
+      "id": "8"
+    },
+    {
+      "name": "Sweatshirts & Sweatpants",
+      "slug": "sweatshirts-sweatpants",
+      "categoryId": 2,
+      "subId": 2,
+      "id": "9"
+    },
+    {
+      "name": "Sleepwear",
+      "slug": "sleepwear",
+      "categoryId": 2,
+      "subId": 2,
+      "id": "10"
+    },
+    {
+      "name": "Shop All",
+      "slug": "shop-all",
+      "categoryId": 2,
+      "subId": 3,
+      "id": "11"
+    },
+    {
+      "name": "Shoes",
+      "slug": "shoes",
+      "categoryId": 2,
+      "subId": 3,
+      "id": "12"
+    },
+    {
+      "name": "Bags & Wallets",
+      "slug": "bags-wallets",
+      "categoryId": 2,
+      "subId": 3,
+      "id": "13"
+    },
+    {
+      "name": "Hats, Gloves & Scarves",
+      "slug": "hats-gloves-scarves",
+      "categoryId": 2,
+      "subId": 3,
+      "id": "14"
+    },
+    {
+      "name": "Watches & Jewelry",
+      "slug": "watches-jewelry",
+      "categoryId": 2,
+      "subId": 3,
+      "id": "15"
+    },
+    {
+      "name": "Belts",
+      "slug": "belts",
+      "categoryId": 2,
+      "subId": 3,
+      "id": "17"
+    },
+    {
+      "name": "Fragrance",
+      "slug": "fragrance",
+      "categoryId": 2,
+      "subId": 3,
+      "id": "18"
+    },
+    {
+      "name": "Sunglasses",
+      "slug": "sunglasses",
+      "categoryId": 2,
+      "subId": 3,
+      "id": "19"
+    },
+    {
+      "name": "Umbrellas",
+      "slug": "umbrellas",
+      "categoryId": 2,
+      "subId": 3,
+      "id": "20"
+    },
+    {
+      "name": "Shop All",
+      "slug": "shop-all",
+      "categoryId": 2,
+      "subId": 4,
+      "id": "21"
+    },
+    {
+      "name": "Boxer Briefs",
+      "slug": "boxer-briefs",
+      "categoryId": 2,
+      "subId": 4,
+      "id": "22"
+    },
+    {
+      "name": "Boxers",
+      "slug": "boxers",
+      "categoryId": 2,
+      "subId": 4,
+      "id": "23"
+    },
+    {
+      "name": "Trunks",
+      "slug": "trunks",
+      "categoryId": 2,
+      "subId": 4,
+      "id": "24"
+    },
+    {
+      "name": "Briefs",
+      "slug": "briefs",
+      "categoryId": 2,
+      "subId": 4,
+      "id": "25"
+    },
+    {
+      "name": "Undershirts",
+      "slug": "undershirts",
+      "categoryId": 2,
+      "subId": 4,
+      "id": "26"
+    },
+    {
+      "name": "Multipacks",
+      "slug": "multipacks",
+      "categoryId": 2,
+      "subId": 4,
+      "id": "27"
+    },
+    {
+      "name": "Shop All",
+      "slug": "shop-all",
+      "categoryId": 2,
+      "subId": 5,
+      "id": "28"
+    },
+    {
+      "name": "Tops",
+      "slug": "tops",
+      "categoryId": 2,
+      "subId": 5,
+      "id": "29"
+    },
+    {
+      "name": "Bottoms",
+      "slug": "bottoms",
+      "categoryId": 2,
+      "subId": 5,
+      "id": "30"
+    },
+    {
+      "name": "Jackets & Coats",
+      "slug": "jackets-coats",
+      "categoryId": 2,
+      "subId": 5,
+      "id": "31"
+    },
+    {
+      "name": "Shoes, Bags & Accessories",
+      "slug": "shoes-bags-accessories",
+      "categoryId": 2,
+      "subId": 5,
+      "id": "32"
+    },
+    {
+      "name": "New Arrivals",
+      "slug": "new-arrivals",
+      "categoryId": 3,
+      "subId": 7,
+      "id": "37"
+    },
+    {
+      "name": "Tommy Essentials",
+      "slug": "tommy-essentials",
+      "categoryId": 3,
+      "subId": 7,
+      "id": "38"
+    },
+    {
+      "name": "Gifts for Her",
+      "slug": "gifts-for-her",
+      "categoryId": 3,
+      "subId": 7,
+      "id": "39"
+    },
+    {
+      "name": "Adaptive",
+      "slug": "adaptive",
+      "categoryId": 3,
+      "subId": 7,
+      "id": "40"
+    },
+    {
+      "name": "Shop All",
+      "slug": "shop-all",
+      "categoryId": 3,
+      "subId": 8,
+      "id": "41"
+    },
+    {
+      "name": "Tops & Sweaters",
+      "slug": "tops-sweaters",
+      "categoryId": 3,
+      "subId": 8,
+      "id": "43"
+    },
+    {
+      "name": "Bottoms",
+      "slug": "bottoms",
+      "categoryId": 3,
+      "subId": 8,
+      "id": "44"
+    },
+    {
+      "name": "Dresses",
+      "slug": "dresses",
+      "categoryId": 3,
+      "subId": 8,
+      "id": "45"
+    },
+    {
+      "name": "Jackets & Coats",
+      "slug": "jackets-coats",
+      "categoryId": 3,
+      "subId": 8,
+      "id": "46"
+    },
+    {
+      "name": "Sweatshirts & Sweatpants",
+      "slug": "sweatshirts-sweatpants",
+      "categoryId": 3,
+      "subId": 8,
+      "id": "47"
+    },
+    {
+      "name": "Sleepwear",
+      "slug": "sleepwear",
+      "categoryId": 3,
+      "subId": 8,
+      "id": "48"
+    },
+    {
+      "name": "Swimwear",
+      "slug": "swimwear",
+      "categoryId": 3,
+      "subId": 8,
+      "id": "49"
+    },
+    {
+      "name": "Shop All",
+      "slug": "shop-all",
+      "categoryId": 3,
+      "subId": 9,
+      "id": "50"
+    },
+    {
+      "name": "Shoes",
+      "slug": "shoes",
+      "categoryId": 3,
+      "subId": 9,
+      "id": "51"
+    },
+    {
+      "name": "Bags & Wallets",
+      "slug": "bags-wallets",
+      "categoryId": 3,
+      "subId": 9,
+      "id": "52"
+    },
+    {
+      "name": "Hats, Gloves & Scarves",
+      "slug": "hats-gloves-scarves",
+      "categoryId": 3,
+      "subId": 9,
+      "id": "53"
+    },
+    {
+      "name": "Watches & Jewelry",
+      "slug": "watches-jewelry",
+      "categoryId": 3,
+      "subId": 9,
+      "id": "54"
+    },
+    {
+      "name": "Socks",
+      "slug": "socks",
+      "categoryId": 3,
+      "subId": 9,
+      "id": "55"
+    },
+    {
+      "name": "Belts",
+      "slug": "belts",
+      "categoryId": 3,
+      "subId": 9,
+      "id": "56"
+    },
+    {
+      "name": "Fragrance",
+      "slug": "fragrance",
+      "categoryId": 3,
+      "subId": 9,
+      "id": "57"
+    },
+    {
+      "name": "Sunglasses",
+      "slug": "sunglasses",
+      "categoryId": 3,
+      "subId": 9,
+      "id": "58"
+    },
+    {
+      "name": "Umbrellas",
+      "slug": "umbrellas",
+      "categoryId": 3,
+      "subId": 9,
+      "id": "59"
+    },
+    {
+      "name": "Shop All",
+      "slug": "shop-all",
+      "categoryId": 3,
+      "subId": 10,
+      "id": "60"
+    },
+    {
+      "name": "Bras & Bralettes",
+      "slug": "bras-bralettes",
+      "categoryId": 3,
+      "subId": 10,
+      "id": "61"
+    },
+    {
+      "name": "Thongs",
+      "slug": "thongs",
+      "categoryId": 3,
+      "subId": 10,
+      "id": "62"
+    },
+    {
+      "name": "Bikini Briefs",
+      "slug": "bikini-briefs",
+      "categoryId": 3,
+      "subId": 10,
+      "id": "63"
+    },
+    {
+      "name": "Underwear Sets",
+      "slug": "underwear-sets",
+      "categoryId": 3,
+      "subId": 10,
+      "id": "64"
+    },
+    {
+      "name": "Multipacks",
+      "slug": "multipacks",
+      "categoryId": 3,
+      "subId": 10,
+      "id": "65"
+    },
+    {
+      "name": "Shop All",
+      "slug": "shop-all",
+      "categoryId": 3,
+      "subId": 11,
+      "id": "66"
+    },
+    {
+      "name": "Tops",
+      "slug": "tops",
+      "categoryId": 3,
+      "subId": 11,
+      "id": "67"
+    },
+    {
+      "name": "Bottoms",
+      "slug": "bottoms",
+      "categoryId": 3,
+      "subId": 11,
+      "id": "68"
+    },
+    {
+      "name": "Dresses & Skirts",
+      "slug": "dresses-skirts",
+      "categoryId": 3,
+      "subId": 11,
+      "id": "69"
+    },
+    {
+      "name": "Jackets & Coats",
+      "slug": "jackets-coats",
+      "categoryId": 3,
+      "subId": 11,
+      "id": "70"
+    },
+    {
+      "name": "Shoes, Bags & Accessories",
+      "slug": "shoes-bags-accessories",
+      "categoryId": 3,
+      "subId": 11,
+      "id": "71"
+    },
+    {
+      "name": "New Arrivals",
+      "slug": "new-arrivals",
+      "categoryId": 4,
+      "subId": 12,
+      "id": "72"
+    },
+    {
+      "name": "Gifts for Kids",
+      "slug": "gifts-for-kids",
+      "categoryId": 4,
+      "subId": 12,
+      "id": "73"
+    },
+    {
+      "name": "Adaptive",
+      "slug": "adaptive",
+      "categoryId": 4,
+      "subId": 12,
+      "id": "74"
+    },
+    {
+      "name": "Shop All",
+      "slug": "shop-all",
+      "categoryId": 4,
+      "subId": 13,
+      "id": "75"
+    },
+    {
+      "name": "Tops & Sweaters",
+      "slug": "tops-sweaters",
+      "categoryId": 4,
+      "subId": 13,
+      "id": "76"
+    },
+    {
+      "name": "Bottoms",
+      "slug": "bottoms",
+      "categoryId": 4,
+      "subId": 13,
+      "id": "77"
+    },
+    {
+      "name": "Jackets & Coats",
+      "slug": "jackets-coats",
+      "categoryId": 4,
+      "subId": 13,
+      "id": "78"
+    },
+    {
+      "name": "Shoes, Bags & Accessories",
+      "slug": "shoes-bags-accessories",
+      "categoryId": 4,
+      "subId": 13,
+      "id": "79"
+    },
+    {
+      "name": "Sweatshirts & Sweatpants",
+      "slug": "sweatshirts-sweatpants",
+      "categoryId": 4,
+      "subId": 13,
+      "id": "80"
+    },
+    {
+      "name": "Shop All",
+      "slug": "shop-all",
+      "categoryId": 4,
+      "subId": 14,
+      "id": "81"
+    },
+    {
+      "name": "Tops & Sweaters",
+      "slug": "tops-sweaters",
+      "categoryId": 4,
+      "subId": 14,
+      "id": "82"
+    },
+    {
+      "name": "Bottoms",
+      "slug": "bottoms",
+      "categoryId": 4,
+      "subId": 14,
+      "id": "83"
+    },
+    {
+      "name": "Dresses",
+      "slug": "dresses",
+      "categoryId": 4,
+      "subId": 14,
+      "id": "84"
+    },
+    {
+      "name": "Jackets & Coats",
+      "slug": "jackets-coats",
+      "categoryId": 4,
+      "subId": 14,
+      "id": "85"
+    },
+    {
+      "name": "Shoes, Bags & Accessories",
+      "slug": "shoes-bags-accessories",
+      "categoryId": 4,
+      "subId": 14,
+      "id": "86"
+    },
+    {
+      "name": "Sweatshirts & Sweatpants",
+      "slug": "sweatshirts-sweatpants",
+      "categoryId": 4,
+      "subId": 14,
+      "id": "87"
+    },
+    {
+      "name": "Shop All",
+      "slug": "shop-all",
+      "categoryId": 4,
+      "subId": 15,
+      "id": "88"
+    },
+    {
+      "name": "Shop All",
+      "slug": "shop-all",
+      "categoryId": 6,
+      "subId": 16,
+      "id": "89"
+    },
+    {
+      "name": "Boxer Briefs",
+      "slug": "boxer-briefs",
+      "categoryId": 6,
+      "subId": 16,
+      "id": "90"
+    },
+    {
+      "name": "Boxers",
+      "slug": "boxers",
+      "categoryId": 6,
+      "subId": 16,
+      "id": "91"
+    },
+    {
+      "name": "Trunks",
+      "slug": "trunks",
+      "categoryId": 6,
+      "subId": 16,
+      "id": "92"
+    },
+    {
+      "name": "Briefs",
+      "slug": "briefs",
+      "categoryId": 6,
+      "subId": 16,
+      "id": "93"
+    },
+    {
+      "name": "Undershirts",
+      "slug": "undershirts",
+      "categoryId": 6,
+      "subId": 16,
+      "id": "94"
+    },
+    {
+      "name": "Multipacks",
+      "slug": "multipacks",
+      "categoryId": 6,
+      "subId": 16,
+      "id": "95"
+    },
+    {
+      "name": "Shop All",
+      "slug": "shop-all",
+      "categoryId": 6,
+      "subId": 17,
+      "id": "96"
+    },
+    {
+      "name": "Bras & Bralettes",
+      "slug": "bras-bralettes",
+      "categoryId": 6,
+      "subId": 17,
+      "id": "97"
+    },
+    {
+      "name": "Thongs",
+      "slug": "thongs",
+      "categoryId": 6,
+      "subId": 17,
+      "id": "98"
+    },
+    {
+      "name": "Bikini Briefs",
+      "slug": "bikini-briefs",
+      "categoryId": 6,
+      "subId": 17,
+      "id": "99"
+    },
+    {
+      "name": "Underwear Sets",
+      "slug": "underwear-sets",
+      "categoryId": 6,
+      "subId": 17,
+      "id": "100"
+    },
+    {
+      "name": "Multipacks",
+      "slug": "multipacks",
+      "categoryId": 6,
+      "subId": 17,
+      "id": "101"
+    },
+    {
+      "name": "Shop All",
+      "slug": "shop-all",
+      "categoryId": 7,
+      "subId": 18,
+      "id": "102"
+    },
+    {
+      "name": "Tops",
+      "slug": "tops",
+      "categoryId": 7,
+      "subId": 18,
+      "id": "103"
+    },
+    {
+      "name": "Bottoms",
+      "slug": "bottoms",
+      "categoryId": 7,
+      "subId": 18,
+      "id": "104"
+    },
+    {
+      "name": "Jackets & Coats",
+      "slug": "jackets-coats",
+      "categoryId": 7,
+      "subId": 18,
+      "id": "105"
+    },
+    {
+      "name": "Shoes, Bags & Accessories",
+      "slug": "shoes-bags-accessories",
+      "categoryId": 7,
+      "subId": 18,
+      "id": "106"
+    },
+    {
+      "name": "Shop All",
+      "slug": "shop-all",
+      "categoryId": 7,
+      "subId": 19,
+      "id": "107"
+    },
+    {
+      "name": "Tops",
+      "slug": "tops",
+      "categoryId": 7,
+      "subId": 19,
+      "id": "108"
+    },
+    {
+      "name": "Bottoms",
+      "slug": "bottoms",
+      "categoryId": 7,
+      "subId": 19,
+      "id": "109"
+    },
+    {
+      "name": "Dresses & Skirts",
+      "slug": "dresses-skirts",
+      "categoryId": 7,
+      "subId": 19,
+      "id": "110"
+    },
+    {
+      "name": "Jackets & Coats",
+      "slug": "jackets-coats",
+      "categoryId": 7,
+      "subId": 19,
+      "id": "111"
+    },
+    {
+      "name": "Shoes, Bags & Accessories",
+      "slug": "shoes-bags-accessories",
+      "categoryId": 7,
+      "subId": 19,
+      "id": "112"
+    }
+  ],
+  "footerLinks": [
+    {
+      "id": "1",
+      "name": "Help & Support",
+      "links": [
+        "Customer Service ",
+        "Order Status",
+        "Shipping",
+        "Returns",
+        "Klarna",
+        "Afterpay",
+        "Promotions & Discounts",
+        "Group Discounts",
+        "E-Gift Cards",
+        "Store Directory"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "About Tommy Hilfiger",
+      "links": [
+        "Tommy Stories",
+        "People's Place Program",
+        "Sustainability",
+        "Press",
+        "Black Friday"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Join Us",
+      "links": [
+        "The Hilfiger Club",
+        "Newsletter Signup",
+        "Careers",
+        "Affiliate Program"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Contact Us",
+      "links": [
+        "Store Locater",
+        "Chat"
+      ]
+    }
+  ],
+  "user": [
+    {
+      "role": "ADMIN",
+      "firstName": "Zahid",
+      "lastName": "Həsənzadə",
+      "email": "zahid.hzade001@gmail.com",
+      "password": "zahid200122",
+      "token": "487tvqob03ski5ap7egnz",
+      "cart": [],
+      "id": "1"
+    },
+    {
+      "firstName": "Bulbul",
+      "lastName": "Ismayilova",
+      "email": "bulbulismayilova29@gmail.com",
+      "password": "12345678",
+      "token": "4ec26yz7rdevgtm7qmmazg",
+      "role": "USER",
+      "cart": [
+        {
+          "count": 1,
+          "productId": "d574",
+          "color": "blue",
+          "size": "s",
+          "price": 83
+        },
+        {
+          "count": 1,
+          "productId": "7027",
+          "color": "sky",
+          "size": "37",
+          "price": 53
+        }
+      ],
+      "id": "2"
+    },
+    {
+      "id": "4b46",
+      "firstName": "Aqsin",
+      "lastName": "Mustafayev",
+      "email": "aqsin123@gmail.com",
+      "password": "12345678",
+      "token": "zzqjeq6ivdjsbwfnisnl7",
+      "role": "USER",
+      "cart": [
+        {
+          "count": 1,
+          "productId": "d574",
+          "color": "blue",
+          "size": "xs",
+          "price": 83
+        },
+        {
+          "count": 1,
+          "productId": "7027",
+          "color": "sky",
+          "size": "38",
+          "price": 53
+        },
+        {
+          "count": 5,
+          "productId": "3b28",
+          "color": "violet",
+          "size": "44",
+          "price": 60
+        }
+      ]
+    }
+  ],
+  "color": [
+    {
+      "id": "0f94",
+      "name": "Red",
+      "slug": "red"
+    },
+    {
+      "id": "1dca",
+      "name": "Gray",
+      "slug": "gray"
+    },
+    {
+      "id": "7595",
+      "name": "Orange",
+      "slug": "orange"
+    },
+    {
+      "id": "dd47",
+      "name": "Yellow",
+      "slug": "yellow"
+    },
+    {
+      "id": "beb9",
+      "name": "Lime",
+      "slug": "lime"
+    },
+    {
+      "id": "97eb",
+      "name": "Green",
+      "slug": "green"
+    },
+    {
+      "id": "ed4b",
+      "name": "Sky",
+      "slug": "sky"
+    },
+    {
+      "id": "d55d",
+      "name": "Blue",
+      "slug": "blue"
+    },
+    {
+      "id": "0094",
+      "name": "Violet",
+      "slug": "violet"
+    },
+    {
+      "id": "0dc7",
+      "name": "Purple",
+      "slug": "purple"
+    },
+    {
+      "id": "200c",
+      "name": "Fuchsia",
+      "slug": "fuchsia"
+    },
+    {
+      "id": "bd82",
+      "name": "Pink",
+      "slug": "pink"
+    },
+    {
+      "id": "3332",
+      "name": "Rose",
+      "slug": "rose"
+    }
+  ],
+  "size": [
+    {
+      "id": "1",
+      "name": "XS",
+      "slug": "xs"
+    },
+    {
+      "id": "f9a6",
+      "name": "S",
+      "slug": "s"
+    },
+    {
+      "id": "523a",
+      "name": "M",
+      "slug": "m"
+    },
+    {
+      "id": "544e",
+      "name": "L",
+      "slug": "l"
+    },
+    {
+      "id": "5527",
+      "name": "XL",
+      "slug": "xl"
+    },
+    {
+      "id": "efdb",
+      "name": "XXL",
+      "slug": "xxl"
+    },
+    {
+      "id": "62eb",
+      "name": "37",
+      "slug": "37"
+    },
+    {
+      "id": "bae5",
+      "name": "38",
+      "slug": "38"
+    },
+    {
+      "id": "003e",
+      "name": "39",
+      "slug": "39"
+    },
+    {
+      "id": "b787",
+      "name": "40",
+      "slug": "40"
+    },
+    {
+      "id": "6f3c",
+      "name": "41",
+      "slug": "41"
+    },
+    {
+      "id": "2d2d",
+      "name": "42",
+      "slug": "42"
+    },
+    {
+      "id": "0bca",
+      "name": "43",
+      "slug": "43"
+    },
+    {
+      "id": "cfb6",
+      "name": "44",
+      "slug": "44"
+    }
+  ],
+  "gender": [
+    {
+      "id": "1",
+      "name": "Men",
+      "slug": "men"
+    },
+    {
+      "id": "2",
+      "name": "Women",
+      "slug": "women"
+    },
+    {
+      "id": "3",
+      "name": "Unisex",
+      "slug": "unisex"
+    }
+  ],
+  "products": [
+    {
+      "id": "16eb",
+      "categoryName": "men",
+      "subcategoryName": "new-arrivals",
+      "generalcategoryName": "jackets-coats",
+      "color": [
+        "blue",
+        "sky",
+        "orange"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "110",
+      "discount": "44",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728816321/iyyju3yfka7i8ucgburk.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728816336/asetootpyrdgegvb2ehg.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728816349/bhsp5epwgh3okng7m5gi.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728816361/r2ud0npacr22vecm4nsh.webp"
+      ],
+      "rating": "0",
+      "name": "Cotton Zip Ivy Jacket",
+      "description": "Tommy Hilfiger men's jacket. This versatile jacket makes casual layering a breeze with its pure cotton, regular-fit construction and timeless design details.",
+      "details": [
+        "Regular Fit.",
+        "100% cotton.",
+        "Zip closure, spread collar.",
+        "Waist angled pockets, internal slip pockets.",
+        "Fully lined, button cuffs.",
+        "Body length from high point of shoulder: 25.6'.",
+        "Measurements based on size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "d574",
+      "categoryName": "men",
+      "subcategoryName": "new-arrivals",
+      "generalcategoryName": "sweaters",
+      "color": [
+        "blue"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "139",
+      "discount": "56",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728816622/ojfmvsepija2aqj200et.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728816634/k4wp0yywodocp2mcgls0.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728816645/dlai9meep9ldydcys8lj.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728816656/xcnjuepyjkzxvyuq3475.webp"
+      ],
+      "rating": "0",
+      "name": "Stripe Wool-Blend Sweater",
+      "description": "Tommy Hilfiger men's sweater. This cozy crewneck features an eye-catching all-over stripe design and faux tortoise shell buttons at the shoulder. It's woven from an organic cotton and wool blend in a relaxed fit.",
+      "details": [
+        "Relaxed Fit.",
+        "53% wool, 47% organic cotton.",
+        "Rib-knit collar, cuffs and hem.",
+        "Body length from high point of shoulder: 27'.",
+        "Measurements based on size M.",
+        "Dry clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "aa80",
+      "categoryName": "men",
+      "subcategoryName": "new-arrivals",
+      "generalcategoryName": "hats",
+      "color": [
+        "blue",
+        "sky",
+        "violet",
+        "fuchsia",
+        "rose"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "44",
+      "discount": "18",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728816865/spq5ltqzrre954is2cxn.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728816877/w6lfwmahzshlticccg4f.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728816887/lr88r8fvnrchotaimck9.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728816897/dfil5jxsseiqkbbducdn.webp"
+      ],
+      "rating": "0",
+      "name": "Flag Organic-Cotton and Cashmere Beanie",
+      "description": "Tommy Hilfiger men's hat. Made from soft organic Pima cotton with a touch of cashmere, this knitted beanie is a luxurious take on a cold-weather classic.",
+      "details": [
+        "50% organic cotton, 45% cotton, 5% cashmere.",
+        "Turn-up rib-knit cuff.",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "7027",
+      "categoryName": "men",
+      "subcategoryName": "new-arrivals",
+      "generalcategoryName": "jeans",
+      "color": [
+        "sky"
+      ],
+      "size": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price": "89",
+      "discount": "36",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728817415/picg7zrjyzijgl5bnrh7.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728817425/dvgmo41vuvkythr7bx3k.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728817437/l1rru8xmbtreqb94eeqp.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728817458/fz5gc8qmrkvisfdcq25g.webp"
+      ],
+      "rating": "0",
+      "name": "Medium Wash Straight Knit Jean",
+      "description": "Tommy Hilfiger men's jean. Cut in our fan-favorite straight fit, these jeans are your go-to pair. Finished in medium wash, our classics are made from a comfortable cotton blend with added stretch in a dobby weave pattern for a more textured feel.",
+      "details": [
+        "Straight Fit.",
+        "72% cotton, 21% polyester, 5% recycled cotton, 2% elastane.",
+        "5-pocket style.",
+        "Rise: 10.75'.",
+        "Inseam: 32'.",
+        "Measurements based on a size 32.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "2afd",
+      "categoryName": "men",
+      "subcategoryName": "new-arrivals",
+      "generalcategoryName": "sweaters",
+      "color": [
+        "red",
+        "gray",
+        "orange",
+        "yellow",
+        "lime",
+        "green"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "169",
+      "discount": "68",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728817705/hglvq3822hm3pnx91lq6.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728817743/a6vyvrxrptfpwtlrnqhd.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728817754/rwjfatklceznqu40pd5s.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728817765/zfsvaoisrt0aeek5rf6v.webp"
+      ],
+      "rating": "0",
+      "name": "Relaxed Fit Stripe Alpaca-Blend Sweater",
+      "description": "Tommy Hilfiger men's sweater. This stripe sweater is made with wool and luxurious alpaca to lend a distinctively soft and fluffy texture to its laid-back silhouette.",
+      "details": [
+        "Relaxed Fit.",
+        "60% recycled nylon, 25% wool, 15% alpaca.",
+        "Body length from high point of shoulder: 27.",
+        "Measurements based on size M.",
+        "Dry clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "4da9",
+      "categoryName": "men",
+      "subcategoryName": "new-arrivals",
+      "generalcategoryName": "t-shirts",
+      "color": [
+        "sky",
+        "blue",
+        "violet",
+        "purple",
+        "fuchsia",
+        "pink",
+        "rose"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "49",
+      "discount": "20",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728818002/yccoj1dwojprmmsyq4rc.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728818017/seriafqdbksgb2vxfbmk.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728818031/f3zzalgcuqagmwravbko.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728818042/yvomkwspbgqpsjppbilg.webp"
+      ],
+      "rating": "0",
+      "name": "Embroidered Heritage Crest T-Shirt",
+      "description": "Tommy Hilfiger men's T-shirt. Intricate logo embroidery brings heritage appeal to this T-shirt, while the cotton construction and regular fit make it the ideal wardrobe basic.",
+      "details": [
+        "Regular Fit.",
+        "100% cotton.",
+        "Body length from high point of shoulder: 28.5'.",
+        "Measurements based on size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "8717",
+      "categoryName": "men",
+      "subcategoryName": "tommy-essentials",
+      "generalcategoryName": "sweaters",
+      "color": [
+        "red",
+        "gray",
+        "orange",
+        "yellow",
+        "lime",
+        "green"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "89",
+      "discount": "36",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728821591/lotnlgogvn7qfyimcfit.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728821604/bsc1ejvxrsfqqlu8fcow.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728821615/xk1cdwxbmdb1i8awedzq.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728821628/eulmcijann6x5v3ku8tc.webp"
+      ],
+      "rating": "0",
+      "name": "Cable Knit Crewneck Sweater",
+      "description": "Tommy Hilfiger men's sweater. Made from soft cotton in a textured cable knit weave, this crewneck sweater is the perfect layer, complete with rib-knit cuffs, collar and hem with touches of subtle branding throughout.",
+      "details": [
+        "Regular Fit.",
+        "100% cotton.",
+        "Body length from high point of shoulder: 27.5'.",
+        "Measurements based on size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "5b8f",
+      "categoryName": "men",
+      "subcategoryName": "tommy-essentials",
+      "generalcategoryName": "pants",
+      "color": [
+        "sky",
+        "blue",
+        "violet",
+        "purple",
+        "fuchsia",
+        "pink",
+        "rose"
+      ],
+      "size": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price": "79",
+      "discount": "32",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728822147/g5p60vw65idaed1etjwl.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728822170/obnfqdrsuy9vyp3jd2wl.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728822187/h2gmlujgfjcizvacljue.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728822198/gqqfmdoozqb3soxa2cjf.webp"
+      ],
+      "rating": "0",
+      "name": "THFlex Slim Tommy Chino",
+      "description": "Tommy Hilfiger men's pant. Made from premium cotton blended with THFlex fibers for added stretch, our slim-cut chinos are super comfortable and super stylish.",
+      "details": [
+        "Bleecker Fit - Sits below waist, cut slim from hip to hem.",
+        "77% cotton, 20% pre-consumer recycled cotton, 3% elastane.",
+        "Trouser styling.",
+        "Rise: 10'.",
+        "Inseam: 28.25'.",
+        "Measurements based on a size 32.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "5fc8",
+      "categoryName": "men",
+      "subcategoryName": "tommy-essentials",
+      "generalcategoryName": "t-shirts",
+      "color": [
+        "red",
+        "gray",
+        "orange",
+        "yellow",
+        "lime",
+        "green"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "44",
+      "discount": "18",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728822493/bz6bdam9hvmf68zf6vpd.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728822506/xiuletg3lnqeydkylari.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728822517/hiberbgl2dgxr2t5udy8.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728822528/ephqeybwn76wxzeamhob.webp"
+      ],
+      "rating": "0",
+      "name": "Embroidered Tommy Logo T-Shirt",
+      "description": "Tommy Hilfiger men's T-shirt. Made from lightweight cotton jersey, known for its breathability and stretch, our comfortable crewneck tee is cut in an easy fit and finished with our embroidered Tommy Logo.",
+      "details": [
+        "Regular Fit.",
+        "100% regenerative cotton.",
+        "This product is made with at least 50% regenerative cotton. Regenerative cotton is grown using farming methods that seek to improve soil health, watersheds and biodiversity. *Excluding trims.",
+        "Body length from high point of shoulder: 28.5'.",
+        "Measurements based on a size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "3b28",
+      "categoryName": "men",
+      "subcategoryName": "tommy-essentials",
+      "generalcategoryName": "shoes",
+      "color": [
+        "sky",
+        "blue",
+        "violet",
+        "purple",
+        "fuchsia",
+        "pink",
+        "rose"
+      ],
+      "size": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price": "149",
+      "discount": "89",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728822929/hacihdvmiy6dv6i4ecnl.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728822940/bgs5rdfyzb8sjoz7rgx8.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728822952/gqmeadqcffbzohuklf7g.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728822962/da8ed9vzrzvsyeegvtoh.webp"
+      ],
+      "rating": "0",
+      "name": "Lightweight Leather Chelsea Boot",
+      "description": "Tommy Hilfiger men's boot. Embrace the timeless appeal of the Chelsea boot with this leather design, updated with paper-infused rubber outsoles for a lightweight, flexible feel.",
+      "details": [
+        "100% leather.",
+        "Leather upper, polyurethane and nylon lining.",
+        "Polyurethane insock, thermoplastic rubber and paper outsole.",
+        "Elastic side panels, lightweight, pull-on loop.",
+        "Sole height: 1.26'.",
+        "Leather cleaner.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "4687",
+      "categoryName": "men",
+      "subcategoryName": "tommy-essentials",
+      "generalcategoryName": "belts",
+      "color": [
+        "red",
+        "gray",
+        "orange",
+        "yellow"
+      ],
+      "size": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price": "59",
+      "discount": "24",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728823235/ctpakpaqhfygpshlv2k3.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728823246/i3e5si0lqruiymkc82nn.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728823260/guta3fjnlxm2rvlibtgd.webp"
+      ],
+      "rating": "0",
+      "name": "Stripe Stitch Leather Belt",
+      "description": "Tommy Hilfiger men's belt. This leather belt showcases a subtle branded effect, with a signature stitch design and a debossed Hilfiger monotype logo.",
+      "details": [
+        "100% leather.",
+        "1.38' (W).",
+        "For belts, we recommend selecting one size up from your usual pant waist size. For example, select a size 34 belt for a US 32 waist pant (see our Style Guide for further reference).",
+        "Leather cleaner.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "64fd",
+      "categoryName": "men",
+      "subcategoryName": "tommy-essentials",
+      "generalcategoryName": "umbrellas",
+      "color": [
+        "lime",
+        "green",
+        "sky",
+        "blue"
+      ],
+      "size": [
+        "37"
+      ],
+      "price": "39",
+      "discount": "16",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728823496/vixxxc4aao9p3o85em68.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728823506/ytl7gthv2qttrus6ru2k.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728823516/k2wyax65uelppknh4pfb.webp"
+      ],
+      "rating": "0",
+      "name": "Flag Umbrella",
+      "description": "Tommy Hilfiger umbrella. Weather the elements in classic Hilfiger style. Our trusty umbrella features a powerful spring-loaded release and dependable, windproof construction.",
+      "details": [
+        "100% polyester.",
+        "Spring-loaded button opening, wrist strap.",
+        "38.5' Diameter, 12' Folded.",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "fd7d",
+      "categoryName": "men",
+      "subcategoryName": "gifts-for-him",
+      "generalcategoryName": "jackets-coats",
+      "color": [
+        "violet",
+        "purple",
+        "fuchsia",
+        "pink"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "299",
+      "discount": "120",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728824260/geqaowfbt3ak1rlfwuyw.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728824270/vdfpky4m3srddmbjgoor.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728824279/tlgtpoythyxugk9sdjbk.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728824293/nzqasir5sm7sgwlqpfgu.webp"
+      ],
+      "rating": "0",
+      "name": "Wool-Blend Casual Coat",
+      "description": "Tommy Hilfiger men's coat. Casual yet polished, our coat transitions from weekday to weekend wear with ease. Made from a warm wool blend, this timeless style will live in your wardrobe for years.",
+      "details": [
+        "Regular Fit.",
+        "55% wool, 40% polyester, 5% other fibers.",
+        "Body length from high point of shoulder: 28'.",
+        "Measurements based on size M.",
+        "Dry clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "243f",
+      "categoryName": "men",
+      "subcategoryName": "gifts-for-him",
+      "generalcategoryName": "sweaters",
+      "color": [
+        "rose",
+        "red",
+        "gray",
+        "orange"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "119",
+      "discount": "48",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728829726/ui8hia1mbkwb4jk5xgxg.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728829737/hmrfi9ehkqznbucqnh9r.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728829748/yaoxcy6vzzqinchnoqrq.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728829761/j23weerdw74rxdlb0dfp.webp"
+      ],
+      "rating": "0",
+      "name": "Wool Crewneck Sweater",
+      "description": "Tommy Hilfiger men's sweater. This crewneck sweater is knit from pure wool to bring a luxurious feel to its versatile, classic silhouette.",
+      "details": [
+        "Regular Fit.",
+        "100% wool.",
+        "Rib-knit collar, cuffs and hem.",
+        "Body length from high point of shoulder: 27'.",
+        "Measurements based on size M.",
+        "Dry clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "9881",
+      "categoryName": "men",
+      "subcategoryName": "gifts-for-him",
+      "generalcategoryName": "watches",
+      "color": [
+        "yellow",
+        "lime",
+        "green",
+        "sky"
+      ],
+      "size": [],
+      "price": "185",
+      "discount": "37",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728829966/vmh57zho5skhjgobjbtk.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728829978/kmp1tfujngrehn91wmg7.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728829989/i53iw9xttr8ompxtlb1l.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728830002/zuvozgksrinq3duwwzfg.webp"
+      ],
+      "rating": "0",
+      "name": "48MM Blue Dial Multi-Layer Watch",
+      "description": "Tommy Hilfiger men's watch. It's time, to go. A dimensional double-layer dial and oversized hands set the tone of this bold sport watch, that stylishly dares to go wherever you do on your daily happenings.",
+      "details": [
+        "48mm stainless-steel case.",
+        "Blue multi-layer dial, stainless steel bracelet.",
+        "Multifunction movement, sub-dials.",
+        "Weekday sub-dial at 12 o'clock, 24-hour sub-dial at 9 o'clock, date sub-dial at 6 o'clock.",
+        "Water resistant up to 50 meters.",
+        "2-year limited warranty.",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "1f71",
+      "categoryName": "men",
+      "subcategoryName": "gifts-for-him",
+      "generalcategoryName": "wallets",
+      "color": [
+        "blue",
+        "violet",
+        "purple",
+        "fuchsia"
+      ],
+      "size": [],
+      "price": "79",
+      "discount": "32",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728830194/qco0jthyq587ke0e092s.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728830204/kld9jncfsobhmlenmm4f.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728830215/ywrpsrhjjfkbxosgnhr6.webp"
+      ],
+      "rating": "0",
+      "name": "Leather Wallet and Key Chain Gift Set",
+      "description": "Tommy Hilfiger men’s wallet. For the guy that’s so money—our slim wallet and key chain set in leather. The perfect gift for the preppy gent (or yourself).",
+      "details": [
+        "100% leather.",
+        "Set includes: bifold wallet and matching key chain.",
+        "7.92'' (H) 6.8'' (L) 1.16'' (W).",
+        "Leather cleaner.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "9ebd",
+      "categoryName": "men",
+      "subcategoryName": "gifts-for-him",
+      "generalcategoryName": "shirts",
+      "color": [
+        "pink",
+        "rose",
+        "red",
+        "gray"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "79",
+      "discount": "32",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728830929/j4qw2l11oceuifnveafs.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728830940/hgi8cof0vatsgldrvpn7.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728830959/baea7u0ogjfytk2s9zte.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728830969/lvaaoxvyypnso9aoys06.webp"
+      ],
+      "rating": "0",
+      "name": "Regular Fit Stretch Oxford Shirt",
+      "description": "Tommy Hilfiger men's shirt. Embrace classic, easy-going style with this Oxford shirt, distinguished by its easy fit with added stretch and subtle Tommy Hilfiger branding.",
+      "details": [
+        "Regular Fit - Cut with slightly more room at the chest and waist than our Slim Fit.",
+        "98% organic cotton, 2% elastane.",
+        "Body length from high point of shoulder: 31'.",
+        "Measurements based on a size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "5972",
+      "categoryName": "men",
+      "subcategoryName": "gifts-for-him",
+      "generalcategoryName": "t-shirts",
+      "color": [
+        "orange",
+        "yellow",
+        "lime",
+        "green"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "34",
+      "discount": "15",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728901608/glck1lbvm4iitkp40nv9.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728901625/jjjozylrokunojvxyvr4.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728901644/pw9czvtopz6yndrskjep.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728901656/d1ijxl5coa8uv8jcvrny.webp"
+      ],
+      "rating": "0",
+      "name": "Solid Everyday T-Shirt",
+      "description": "Tommy Hilfiger men's T-shirt. Styled from pure cotton and washed for extra softness, our Everyday tees are customer favorites for good reason.",
+      "details": [
+        "Regular Fit.",
+        "100% regenerative cotton.",
+        "Lightweight.",
+        "This product is made with at least 50% regenerative cotton. Regenerative cotton is grown using farming methods that seek to improve soil health, watersheds and biodiversity. *Excluding trims.",
+        "Body length from high point of shoulder: 28.5'.",
+        "Measurements based on a size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "15ed",
+      "categoryName": "men",
+      "subcategoryName": "adaptive",
+      "generalcategoryName": "sweaters",
+      "color": [
+        "sky",
+        "blue",
+        "violet",
+        "purple"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "129",
+      "discount": "52",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728901989/raala1qup957hpnccsek.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728902000/qaqtm374uloj0oz1hts8.webp"
+      ],
+      "rating": "0",
+      "name": "Classic Cotton Cardigan",
+      "description": "Tommy Hilfiger mens' sweater. This pure cotton sweater is a timeless choice for chilly days, thanks to its classic understated design. Part of our Adaptive Collection, designed for ease of dressing in classic Tommy style.",
+      "details": [
+        "Regular Fit.",
+        "100% cotton.",
+        "Magnetic closure on placket designed to appear as a traditional button placket.",
+        "Magnets are safety tested. If you have a pacemaker, consult your physician before using our products.",
+        "Length 27-1/2' high point shoulder to hem.",
+        "Measurements based on a size M.",
+        "Close all fasteners prior to wash. Machine wash warm. Tumble dry gentle cycle. Do not iron magnets. Additional care instructions may be found on the garment.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "f73d",
+      "categoryName": "men",
+      "subcategoryName": "adaptive",
+      "generalcategoryName": "jeans",
+      "color": [
+        "fuchsia",
+        "pink",
+        "rose",
+        "red"
+      ],
+      "size": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price": "99",
+      "discount": "40",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728902223/a9tqnb0bdz3x9szkh1ng.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728902239/po25x48tpgc0llhmmzvo.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728902251/miwnhhwgpnguzqot1rvn.webp"
+      ],
+      "rating": "0",
+      "name": "Whiskered Straight Fit Jean",
+      "description": "Tommy Hilfiger men's jean. Subtle fading and whiskering on the thighs give these straight-leg jeans a worn-in look, while signature branding marks an authentic heritage. Part of our Adaptive Collection, designed for ease of dressing in classic Tommy style.",
+      "details": [
+        "Denton Fit - Sits below waist, cut straight from hip to hem.",
+        "99% cotton, 1% elastane.",
+        "Five-pocket styling, fading and whiskering at front.",
+        "Hook and loop fastening on waist. Elastic pull-up loops.",
+        "Magnetic closure on front designed to appear as a traditional button fly",
+        "Magnets are safety tested. If you have a pacemaker, consult your physician before using our products.",
+        "Measurements based on size 32.",
+        "Close all fasteners prior to wash. Machine wash warm. Tumble dry gentle cycle. Do not iron magnets. Additional care instructions may be found on the garment.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "38e1",
+      "categoryName": "men",
+      "subcategoryName": "adaptive",
+      "generalcategoryName": "jackets-coats",
+      "color": [
+        "gray",
+        "orange",
+        "yellow",
+        "lime"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "329",
+      "discount": "132",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728902512/swiwi5gpzovtvbhjld9j.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728902527/vnedkiv9wgdujozlstny.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728902539/inwmlc0jin5lfo8toty8.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728902552/ogtgapekctxncvvfkb9y.webp"
+      ],
+      "rating": "0",
+      "name": "Hooded Down Puffer Jacket",
+      "description": "Tommy Hilfiger men's jacket. This practical hooded puffer jacket is made with down insulation for extra warmth, making it the perfect choice for cold-weather days. Part of our Adaptive Collection, designed for ease of dressing in classic Tommy style.",
+      "details": [
+        "Regular Fit.",
+        "Shell: 74% recycled polyester, 26% thermoplastic polyurethane. Fill: 100% duck down.",
+        "Non-detachable toggle cord hood, two front slip pockets.",
+        "Magnetic double zip closure.",
+        "One-handed, extended zipper pull to make dressing easier.",
+        "Magnets are safety tested. If you have a pacemaker, consult your doctor before using our products.",
+        "Length 28.75' high point shoulder to hem.",
+        "Measurements based on size M.",
+        "Close all fasteners prior to wash. Machine wash warm. Tumble dry gentle cycle. Do not iron magnets. Additional care instructions may be found on the garment.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "0d82",
+      "categoryName": "men",
+      "subcategoryName": "adaptive",
+      "generalcategoryName": "jackets-coats",
+      "color": [
+        "green",
+        "sky",
+        "blue",
+        "violet"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "159",
+      "discount": "64",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728902741/pij1nb50r2vhkfaoavfp.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728902757/l1bq7cptfwnboatpcvzl.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728902767/einvdjjqcus5lxg19vck.webp"
+      ],
+      "rating": "0",
+      "name": "Lightweight Packable Puffer Vest",
+      "description": "Tommy Hilfiger men's vest. Crafted to be warm and cozy, this padded vest with zip pockets and a stand-up collar also has a practical packable design. Part of our Adaptive Collection, designed for ease of dressing in classic Tommy style.",
+      "details": [
+        "Regular Fit.",
+        "Shell: 100% recycled polyester. Fill: 100% recycled polyester.",
+        "One-handed zipper pull to make dressing easier.",
+        "Two front one-handed zipper pockets.",
+        "Length 28.17' high point shoulder to hem.",
+        "Measurements based on size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "5f6c",
+      "categoryName": "men",
+      "subcategoryName": "adaptive",
+      "generalcategoryName": "shorts",
+      "color": [
+        "purple",
+        "fuchsia",
+        "pink",
+        "rose"
+      ],
+      "size": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price": "69",
+      "discount": "28",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728902996/zqrt9cqwrkftv6bdffol.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728903008/voyzmdasosyjjsvxqa0r.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728903019/p8ouunn91nswtllydvh4.webp"
+      ],
+      "rating": "0",
+      "name": "Seated Fit Classic Short",
+      "description": "Tommy Hilfiger men’s short. Your go-to short cut from the same cloth as our famous chino, now with a hint of stretch for a comfortable fit. Part of our Adaptive Collection, designed for ease of dressing in classic Tommy style.",
+      "details": [
+        "Regular fit adapted for seated wear– Shorter front rise to reduce fabric bunching, higher back rise for comfort and coverage.",
+        "97% cotton, 3% elastane.",
+        "VELCRO® brand closure replaces traditional button/zip fly.",
+        "No back pockets, seams, or yoke seams.",
+        "Inseam: 9'.",
+        "Front rise: 10'.",
+        "Back rise: 19-3/4'.",
+        "Measurements based on size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "3859",
+      "categoryName": "men",
+      "subcategoryName": "tops-sweaters",
+      "generalcategoryName": "sweaters",
+      "subName": "Clothing",
+      "color": [
+        "red",
+        "gray",
+        "orange",
+        "yellow"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "89",
+      "discount": "36",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728903659/hhz3ei9nzaey3bvfehrr.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728903669/grg5gyd3msl0lr77xvzf.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728903678/pqj1tzdogqatryy9tqu9.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728903691/iia06poqlhyqiiqlq91q.webp"
+      ],
+      "rating": "0",
+      "name": "Cable Knit Crewneck Sweater",
+      "description": "Tommy Hilfiger men's sweater. Made from soft cotton in a textured cable knit weave, this crewneck sweater is the perfect layer, complete with rib-knit cuffs, collar and hem with touches of subtle branding throughout.",
+      "details": [
+        "Regular Fit.",
+        "100% cotton.",
+        "Body length from high point of shoulder: 27.5'.",
+        "Measurements based on a size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "b393",
+      "categoryName": "men",
+      "subcategoryName": "tops-sweaters",
+      "generalcategoryName": "t-shirts",
+      "subName": "Clothing",
+      "color": [
+        "lime",
+        "green",
+        "sky",
+        "blue"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "34",
+      "discount": "15",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728904377/vh3osgtffuowdjeqhs0x.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728904390/uoz5dt2qwxskeybwgmhq.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728904401/qho9rewrfvdr9gjddlxx.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728904410/emhfmfscgpcrksnahdpu.webp"
+      ],
+      "rating": "0",
+      "name": "Solid Everyday T-Shirt",
+      "description": "Tommy Hilfiger men's T-shirt. Styled from pure cotton and washed for extra softness, our Everyday tees are customer favorites for good reason.",
+      "details": [
+        "Regular Fit.",
+        "100% regenerative cotton.",
+        "Lightweight.",
+        "This product is made with at least 50% regenerative cotton. Regenerative cotton is grown using farming methods that seek to improve soil health, watersheds and biodiversity. *Excluding trims.",
+        "Body length from high point of shoulder: 28.5'.",
+        "Measurements based on a size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "a1b4",
+      "categoryName": "men",
+      "subcategoryName": "tops-sweaters",
+      "generalcategoryName": "hoodies-sweatshirts",
+      "subName": "Clothing",
+      "color": [
+        "violet",
+        "purple",
+        "fuchsia",
+        "pink"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "89",
+      "discount": "36",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728904588/kd7xndqzmqpu0w6j3jl8.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728904602/tgzkpbf4piozvisvf2jt.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728904620/fvl7zdoctlzm9vhjq4uq.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728904632/kolxkmx4rw89wrmpj64z.webp"
+      ],
+      "rating": "0",
+      "name": "Tommy Logo Hoodie",
+      "description": "Tommy Hilfiger men's hoodie. Our seriously soft hoodie is made from brushed-back fleece with a flat, clean face, fuzzy interior and smooth hand feel. Complete with a drawstring hood, rib-knit cuffs and hem, and our latest embroidered Tommy Logo at the chest.",
+      "details": [
+        "Regular Fit.",
+        "69% cotton, 31% polyester.",
+        "Drawstring hood, kanga pocket.",
+        "Body length from high point of shoulder: 27.5'.",
+        "Measurements based on a size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "b72e",
+      "categoryName": "men",
+      "subcategoryName": "tops-sweaters",
+      "generalcategoryName": "hoodies-sweatshirts",
+      "subName": "Clothing",
+      "color": [
+        "rose",
+        "red",
+        "gray",
+        "orange"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "69",
+      "discount": "28",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728905512/q29q817a8fy1rzf1cakz.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728905525/mroa8sltxvhkrceqagzd.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728905535/qflbmgjtzx2ohbsfazuo.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728905546/i9owhzckdt3br2h94yio.webp"
+      ],
+      "rating": "0",
+      "name": "Solid Crewneck Sweatshirt",
+      "description": "Tommy Hilfiger men's sweatshirt. Our classic crewneck is the perfect layering option for the changing seasons, but also works well on its own. It's made from heavyweight French terry cotton for breathability and comfort, and complete with rib-knit cuffs, collar and hem.",
+      "details": [
+        "Regular Fit.",
+        "100% regenerative cotton.",
+        "This product is made with at least 50% regenerative cotton. Regenerative cotton is grown using farming methods that seek to improve soil health, watersheds and biodiversity. *Excluding trims.",
+        "Body length from high point of shoulder: 28'.",
+        "Measurements based on a size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "a32c",
+      "categoryName": "men",
+      "subcategoryName": "tops-sweaters",
+      "generalcategoryName": "shirts",
+      "subName": "Clothing",
+      "color": [
+        "yellow",
+        "lime",
+        "green",
+        "sky"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "79",
+      "discount": "32",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728905814/d1iurdqjjlyyj7q8kacj.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728905823/v0z8aij8n0ml2fwpoqhh.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728905831/ewcnhtddd3ou8tsi8kuh.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728905843/jmqhosdglmsrxdzhbe0y.webp"
+      ],
+      "rating": "0",
+      "name": "Stretch Regular Fit Poplin Shirt",
+      "description": "Tommy Hilfiger men's shirt. Our cotton poplin shirt has the crisp texture you expect, softened with an enzyme wash for a subtly smoother feel and looser drape. This version pairs well with chinos, jeans, and even shorts—making it an easy go-to for the office and beyond.",
+      "details": [
+        "Regular Fit - Cut with slightly more room at the chest and waist than our Slim Fit.",
+        "98% cotton, 2% elastane.",
+        "Button-down collar.",
+        "Body length from high point of shoulder: 31'.",
+        "Measurements based on a size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "6abc",
+      "categoryName": "men",
+      "subcategoryName": "bottoms",
+      "generalcategoryName": "pants",
+      "subName": "Clothing",
+      "color": [
+        "blue",
+        "violet",
+        "purple",
+        "fuchsia"
+      ],
+      "size": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "price": "79",
+      "discount": "32",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728906186/zkdo9ahp8zeif4ijqorj.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728906196/qgsnjtnerxsam5zismzy.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728906205/w6fokbghy9itfhv6zqce.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728906216/csflwljrh6oalvl9rbpd.webp"
+      ],
+      "rating": "0",
+      "name": "Twill Straight Fit Pant",
+      "description": "Tommy Hilfiger men's pant. Our versatile pants are a must for every man's wardrobe. With a classic straight cut, they have just the right amount of stretch for comfort and easy fit.",
+      "details": [
+        "Denton Fit - Sits below waist, cut straight from hip to hem.",
+        "77% cotton, 20% recycled cotton, 3% elastane.",
+        "5-pocket style.",
+        "Rise: 10.75'.",
+        "Inseam: 32'.",
+        "Measurements based on a size 32.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "c12c",
+      "categoryName": "men",
+      "subcategoryName": "bottoms",
+      "generalcategoryName": "jeans",
+      "subName": "Clothing",
+      "color": [
+        "pink",
+        "rose",
+        "red",
+        "gray"
+      ],
+      "size": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price": "89",
+      "discount": "36",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728908615/pgjbx1h4e5ymtwxbjkve.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728908636/xg83zwvhpxtkim1cifgg.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728908649/kgsac5oglf6jbgxwue8f.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728908658/qbkqi4q0e4xudj2bxs21.webp"
+      ],
+      "rating": "0",
+      "name": "Dark Blue Wash Straight Jean",
+      "description": "Tommy Hilfiger men's jean. Cut in a fan-favorite straight fit, these jeans are your go-to pair. Finished in a dark blue wash, our classics are crafted from a comfortable organic cotton blend.",
+      "details": [
+        "Straight Fit (also known as Denton Fit) - Cut straight through the hip and thigh with a slim leg.",
+        "79% organic cotton, 19% polyester, 2% elastane.",
+        "Rise: 10.75'.",
+        "Inseam: 32'.",
+        "Measurements based on a size 32.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "f381",
+      "categoryName": "men",
+      "subcategoryName": "bottoms",
+      "generalcategoryName": "pants",
+      "subName": "Clothing",
+      "color": [
+        "orange",
+        "yellow",
+        "lime",
+        "green"
+      ],
+      "size": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price": "79",
+      "discount": "32",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728908943/dkbvimeremajhxmegeo4.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728908957/lc6v6upodtgl8hc8tbnw.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728908972/gzfsndrfuuwego4pgclj.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728908981/aro4gfekoofrw5znqvy4.webp"
+      ],
+      "rating": "0",
+      "name": "THFlex Slim Tommy Chino",
+      "description": "Tommy Hilfiger men's pant. Made from premium cotton blended with THFlex fibers for added stretch, our slim-cut chinos are super comfortable and super stylish.",
+      "details": [
+        "Bleecker Fit - Sits below waist, cut slim from hip to hem.",
+        "77% cotton, 20% pre-consumer recycled cotton, 3% elastane.",
+        "Trouser styling.",
+        "Rise: 10'.",
+        "Inseam: 28.25'.",
+        "Measurements based on a size 32.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "04e5",
+      "categoryName": "men",
+      "subcategoryName": "bottoms",
+      "generalcategoryName": "shorts",
+      "subName": "Clothing",
+      "color": [
+        "sky",
+        "blue",
+        "violet",
+        "purple"
+      ],
+      "size": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price": "79",
+      "discount": "32",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728909680/kymzizekf7qldefzjdu6.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728909726/qunm0t8zr9l1mbvczqeh.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728909739/spf4oke9cuks312cgyz0.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728909750/vpr5f29pfkbc1vg1qu1d.webp"
+      ],
+      "rating": "0",
+      "name": "Belted Twill 9' Short",
+      "description": "Tommy Hilfiger men's short. Made from comfortable cotton twill that resists stains and wrinkles, and finished with a branded belt, our shorts are cut in a fit that never goes out of style.",
+      "details": [
+        "Brooklyn Fit - Sits at waist, 9' inseam, cut straight from hip to hem.",
+        "50% organic cotton, 47% cotton, 3% elastane.",
+        "Trouser styling, belt included, pockets.",
+        "One or more style images shown is a 3D image. The actual product may contain subtle variations.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "9d23",
+      "categoryName": "men",
+      "subcategoryName": "bottoms",
+      "generalcategoryName": "pants",
+      "subName": "Clothing",
+      "color": [
+        "fuchsia",
+        "pink",
+        "rose",
+        "red"
+      ],
+      "size": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price": "79",
+      "discount": "32",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728910432/ezmmaeafdk6rjypuanjh.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728910443/yulmmp93oi3nani9mnel.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728910453/xkctjoi5e0gjtk45n9ew.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728910462/fckktkm2qggvoxgpnayz.webp"
+      ],
+      "rating": "0",
+      "name": "Tommy Logo Sweatpant",
+      "description": "Tommy Hilfiger men's pant. Our seriously soft sweatpants are made from brushed-back fleece with a flat, clean face and smooth feel. Made complete with an elastic drawstring waistband and our latest embroidered Tommy Logo along the leg.",
+      "details": [
+        "Regular Fit.",
+        "69% cotton, 31% polyester.",
+        "Elastic drawstring waistband, pockets.",
+        "Rise: 11.5'.",
+        "Inseam: 30.5'.",
+        "Measurements based on a size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "e5d3",
+      "categoryName": "men",
+      "subcategoryName": "jackets-coats",
+      "generalcategoryName": "jackets-coats",
+      "subName": "Clothing",
+      "color": [
+        "gray",
+        "orange",
+        "yellow",
+        "lime"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "129",
+      "discount": "52",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728911591/i9hmrousozz1djjnozkt.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728911600/tjdvbmsvp9j5lpvvrpub.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728911609/nw63otkllbfkviho1cpc.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728911618/xyhsqtggrbzhvyqmrvaj.webp"
+      ],
+      "rating": "0",
+      "name": "Hilfiger Water-Resistant Regatta Jacket",
+      "description": "Tommy Hilfiger men's jacket. Our water resistant regatta jacket blends form and function in classic Tommy style. Designed to be light, super versatile, and ready to take on whatever Mother Nature throws at you.",
+      "details": [
+        "Regular Fit.",
+        "55% recycled nylon, 45% nylon.",
+        "Concealed hood under collar, water resistant.",
+        "Body length from high point of shoulder: 27.5'.",
+        "Measurements based on a size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "2567",
+      "categoryName": "men",
+      "subcategoryName": "jackets-coats",
+      "generalcategoryName": "jackets-coats",
+      "subName": "Clothing",
+      "color": [
+        "green",
+        "sky",
+        "blue",
+        "violet"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "110",
+      "discount": "44",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728915047/hx27hrhfpglvc6zoutdg.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728915060/z81j1mkjhmgerd9p32ut.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728915073/trh9ixua2xiw7i0q0iqx.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728915091/tzoqiddgpvmjkc2th5jr.webp"
+      ],
+      "rating": "0",
+      "name": "Cotton Zip Ivy Jacket",
+      "description": "Tommy Hilfiger men's jacket. This versatile jacket makes casual layering a breeze with its pure cotton, regular-fit construction and timeless design details.",
+      "details": [
+        "Regular Fit.",
+        "100% cotton.",
+        "Zip closure, spread collar.",
+        "Waist angled pockets, internal slip pockets.",
+        "Fully lined, button cuffs.",
+        "Body length from high point of shoulder: 25.6'.",
+        "Measurements based on size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "4d58",
+      "categoryName": "men",
+      "subcategoryName": "jackets-coats",
+      "generalcategoryName": "jackets-coats",
+      "subName": "Clothing",
+      "color": [
+        "purple",
+        "fuchsia",
+        "pink",
+        "rose"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "169",
+      "discount": "68",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728916305/soezkdnmgu5f1gn1oxil.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728916317/artxmfve2q7hbagy4gol.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728916329/p3f2qf36n81geiurrwfq.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728916338/tqedpdxl2md94rcrfhdm.webp"
+      ],
+      "rating": "0",
+      "name": "Recycled Packable Jacket",
+      "description": "Tommy Hilfiger men's jacket. Ideal for travel, this puffer jacket folds down to a fraction of its size. Cut from recycled fabric and strategically insulated, it's ready for whatever the weather report is dishing out.",
+      "details": [
+        "Regular Fit.",
+        "Shell: 100% recycled polyester. Fill: 100% polyester fill. - Shell: 100% recycled polyester. Fill: 100% recycled polyester depending on timing of manufacturing.",
+        "Packs into inner zipper.",
+        "Body length from high point of shoulder: 27'.",
+        "Measurements based on size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "97ff",
+      "categoryName": "men",
+      "subcategoryName": "jackets-coats",
+      "generalcategoryName": "jackets-coats",
+      "subName": "Clothing",
+      "color": [
+        "purple",
+        "fuchsia",
+        "pink",
+        "rose"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "299",
+      "discount": "120",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728917104/t3ucpdb9vtjpyc4ejlid.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728917137/zshmvg267v19gxaftovx.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728917153/jc1e1jgarncq1pm821hn.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728917173/pmegc3ax7nbxduyrpry8.webp"
+      ],
+      "rating": "0",
+      "name": "Hooded Utility Parka",
+      "description": "Tommy Hilfiger men's jacket. When the weather just won't quit, our hooded parka won't either. Designed with warm, recycled polyester insulation and a bungee drawstring hood with a foldable flap for extra protection, it's a versatile outer layer that shields you from the elements.",
+      "details": [
+        "Regular Fit.",
+        "Shell: 91% recycled polyester, 9% thermoplastic polyurethane. Fill: 100% recycled polyester.",
+        "Zip closure, bungee drawstring hood, front and side pockets, snap button cuffs.",
+        "Body length from high point of shoulder: 34.625'.",
+        "Measurements based on size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "1212",
+      "categoryName": "men",
+      "subcategoryName": "jackets-coats",
+      "generalcategoryName": "jackets-coats",
+      "subName": "Clothing",
+      "color": [
+        "red",
+        "gray",
+        "orange",
+        "yellow"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "229",
+      "discount": "92",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728917616/hepoa28pnjbrfydecx9q.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728917630/v66czrolo69ntauvdi71.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728917643/qqhedamzq02gdj0fs3tz.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728917657/iyazbqvxahcgkwboc76b.webp"
+      ],
+      "rating": "0",
+      "name": "Quilted Water-Repellent Bomber Jacket",
+      "description": "Tommy Hilfiger men's jacket. Tackle fickle weather with this stylish quilted bomber jacket, made from water-repellent fabric with a lightweight layer of thermal insulation..",
+      "details": [
+        "Regular Fit.",
+        "95% recycled nylon, 5% nylon.",
+        "Zip closure, baseball collar.",
+        "Front angled slip pockets, rib-knit collar, cuffs and hem.",
+        "Water resistant, thermal insulation.",
+        "Body length from high point of shoulder: 26'.",
+        "Measurements based on size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "de4f",
+      "categoryName": "men",
+      "subcategoryName": "sweatshirts-sweatpants",
+      "generalcategoryName": "hoodies-sweatshirts",
+      "subName": "Clothing",
+      "color": [
+        "violet",
+        "purple",
+        "fuchsia",
+        "pink"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "89",
+      "discount": "36",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728919150/hllncyem8o3rz0jufrrs.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728919164/bduftwubt28yufoxnyvg.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728919174/bxpudjxpq5pbxwxczyhj.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728919184/lwkuzzfbvlwnpwxix0tk.webp"
+      ],
+      "rating": "0",
+      "name": "Tommy Logo Hoodie",
+      "description": "Tommy Hilfiger men's hoodie. Our seriously soft hoodie is made from brushed-back fleece with a flat, clean face, fuzzy interior and smooth hand feel. Complete with a drawstring hood, rib-knit cuffs and hem, and our latest embroidered Tommy Logo at the chest.",
+      "details": [
+        "Regular Fit.",
+        "69% cotton, 31% polyester.",
+        "Drawstring hood, kanga pocket.",
+        "Body length from high point of shoulder: 27.5'.",
+        "Measurements based on size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "e50b",
+      "categoryName": "men",
+      "subcategoryName": "sweatshirts-sweatpants",
+      "generalcategoryName": "hoodies-sweatshirts",
+      "subName": "Clothing",
+      "color": [
+        "rose",
+        "red",
+        "gray",
+        "orange"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "79",
+      "discount": "32",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728919596/wr8ub3lqwdfyaslpjrtj.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728919614/guyyvdz7higyeb0fl8t2.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728919624/aqs16ez0wbbarlhouvkj.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728919636/njghua9l5modjlaafxpf.webp"
+      ],
+      "rating": "0",
+      "name": "Tommy Logo Sweatshirt",
+      "description": "Tommy Hilfiger men's sweatshirt. Our seriously soft crewneck is made from brushed-back fleece with a flat, clean face, fuzzy interior and smooth feel. Made complete with rib-knit cuffs, collar and hem, and our latest embroidered Tommy Logo at the chest.",
+      "details": [
+        "Regular Fit.",
+        "70% cotton, 30% polyester.",
+        "Body length from high point of shoulder: 27.5'.",
+        "Measurements based on size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "f58c",
+      "categoryName": "men",
+      "subcategoryName": "sweatshirts-sweatpants",
+      "generalcategoryName": "hoodies-sweatshirts",
+      "subName": "Clothing",
+      "color": [
+        "yellow",
+        "lime",
+        "green",
+        "sky"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "69",
+      "discount": "28",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728921517/nbkoeteqxvpizeljn2ri.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728921531/ep7g4xnngcsbshu0ahji.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728921541/udigyoikpautj9tqbeyu.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728921550/q5ufr9gqntudfwyeisrq.webp"
+      ],
+      "rating": "0",
+      "name": "Embroidered Tommy Logo Sweatshort",
+      "description": "Tommy Hilfiger men's short. Our seriously soft sweatshorts are made from brushed-back fleece with a flat, clean face, fuzzy interior and smooth feel. Complete with an elastic drawstring waistband and our latest embroidered Tommy Logo along the leg.",
+      "details": [
+        "Regular Fit.",
+        "72% cotton, 28% polyester.",
+        "Elastic drawstring waistband, pockets.",
+        "Rise: 11.75'.",
+        "Inseam: 8'.",
+        "Measurements based on size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "6992",
+      "categoryName": "men",
+      "subcategoryName": "sweatshirts-sweatpants",
+      "generalcategoryName": "pants",
+      "subName": "Clothing",
+      "color": [
+        "blue",
+        "violet",
+        "purple",
+        "fuchsia"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "79",
+      "discount": "32",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728922111/dc17xkspnisiiwdkfzbz.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728922121/koxrt9jmr7pxpvgd9o7w.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728922130/rtba0cok5vtr2pw1hgyl.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728922139/amxoevbphalvooy52fbm.webp"
+      ],
+      "rating": "0",
+      "name": "Tommy Logo Sweatpant",
+      "description": "Tommy Hilfiger men's pant. Perfect for cool weather, our seriously soft sweatpants are made from soft, brushed-back fleece with a flat, clean face and smooth handfeel.",
+      "details": [
+        "Regular Fit.",
+        "70% cotton, 30% polyester - 100% cotton depending on timing of manufacturing.",
+        "Medium weight fleece.",
+        "Rise: 11.5'.",
+        "Inseam: 30,5'.",
+        "Drawstring length: 54'.",
+        "Measurements based on size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "ac9d",
+      "categoryName": "men",
+      "subcategoryName": "sweatshirts-sweatpants",
+      "generalcategoryName": "hoodies-sweatshirts",
+      "subName": "Clothing",
+      "color": [
+        "pink",
+        "rose",
+        "red",
+        "gray"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "79",
+      "discount": "32",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728922435/nlzhqplyi7nszord0mxd.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728922486/n75zxyeiimlqtmlsqigw.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728922495/gntdisi6tqnaeakvhcks.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728922504/ocu6bzfyaj7pvzeqnvey.webp"
+      ],
+      "rating": "0",
+      "name": "Intechno Knit Crewneck Sweatshirt",
+      "description": "Tommy Hilfiger men's sweatshirt. Our intechno knit crewneck sweatshirt has a sleek, smooth and extra-soft finish that keeps you warm without the bulk, making it a cold weather hero.",
+      "details": [
+        "Regular Fit.",
+        "72% cotton, 28% polyester.",
+        "Body length from high point of shoulder: 28'.",
+        "Measurements based on size M.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "fe7d",
+      "categoryName": "men",
+      "subcategoryName": "sleepwear",
+      "generalcategoryName": "shirts",
+      "subName": "Clothing",
+      "color": [
+        "orange",
+        "yellow",
+        "lime",
+        "green"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "32",
+      "discount": "13",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728993041/kvtcj7fxqqk1iuhrptna.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728993053/qqknqq3mex9wljtry88q.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728993062/evzib4ssdmigpmn3myxy.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728993074/dwhquvexsnrymntlsdaw.webp"
+      ],
+      "rating": "0",
+      "name": "Sueded Jersey Henley Sleep Shirt",
+      "description": "Tommy Hilfiger men’s sleepwear. Seriously soft and crazy comfortable—our short-sleeve Henley in sueded jersey fabric that's perfect for lounging around or a good night's sleep.",
+      "details": [
+        "Regular Fit.",
+        "75% cotton, 25% recycled cotton.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "bc10",
+      "categoryName": "men",
+      "subcategoryName": "sleepwear",
+      "generalcategoryName": "pants",
+      "subName": "Clothing",
+      "color": [
+        "sky",
+        "blue",
+        "violet",
+        "purple"
+      ],
+      "size": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price": "32",
+      "discount": "13",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728993266/m2s41p5r6kvaeezflzvd.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728993277/iiwuxzlshrpcz2t8jzpt.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728993293/n5tbv5iza0wyh4hizhyl.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728993305/ii3k3g5dazc6hei3klmd.webp"
+      ],
+      "rating": "0",
+      "name": "Sueded Jersey Sleep Pant",
+      "description": "Tommy Hilfiger men’s sleepwear. Seriously soft and crazy comfortable—our sleep pants made from sueded jersey fabric are perfect for lounging around or for a good night's sleep.",
+      "details": [
+        "Regular Fit.",
+        "75% cotton, 25% recycled cotton.",
+        "Elastic drawstring waist, pockets.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "0f49",
+      "categoryName": "men",
+      "subcategoryName": "sleepwear",
+      "generalcategoryName": "shirts",
+      "subName": "Clothing",
+      "color": [
+        "fuchsia",
+        "pink",
+        "rose",
+        "red"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "32",
+      "discount": "13",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728993458/udlgykgo0nqoaqycnon6.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728993467/cvdjdcnnpdj2jh46ft3z.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728993475/qkfh9mi7izcg1uzoguxo.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728993487/ahg9avnxfnilaoqhg1co.webp"
+      ],
+      "rating": "0",
+      "name": "Sueded Jersey Henley Sleep Shirt",
+      "description": "Tommy Hilfiger men’s sleepwear. Seriously soft and crazy comfortable—our short-sleeve Henley in sueded jersey fabric that's perfect for lounging around or a good night's sleep.",
+      "details": [
+        "Regular Fit.",
+        "75% cotton, 25% recycled cotton.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "8f3c",
+      "categoryName": "men",
+      "subcategoryName": "sleepwear",
+      "generalcategoryName": "pants",
+      "subName": "Clothing",
+      "color": [
+        "gray",
+        "orange",
+        "yellow",
+        "lime"
+      ],
+      "size": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price": "32",
+      "discount": "13",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728994111/cjurvd1womxl68us6ilu.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728994124/g1xpckpyy736iyodmqdt.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728994133/d2agifznmujvvsbotd03.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728994147/mb5ccez07tckisyweowo.webp"
+      ],
+      "rating": "0",
+      "name": "Sueded Jersey Sleep Pant",
+      "description": "Tommy Hilfiger men’s sleepwear. Seriously soft and crazy comfortable—our sleep pants made from sueded jersey fabric are perfect for lounging around or for a good night's sleep.",
+      "details": [
+        "Regular Fit.",
+        "75% cotton, 25% recycled cotton.",
+        "Elastic drawstring waist, pockets.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "a911",
+      "categoryName": "men",
+      "subcategoryName": "sleepwear",
+      "generalcategoryName": "hoodies-sweatshirts",
+      "subName": "Clothing",
+      "color": [
+        "green",
+        "sky",
+        "blue",
+        "violet"
+      ],
+      "size": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "price": "69",
+      "discount": "28",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728994331/dnqbchiwok12bup8ir9b.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728994341/zrj0wz4exlxncob7t72q.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728994351/lc8pgm9tfboawbxx7xte.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1728994360/lytroj0fs4sbhkuzi76p.webp"
+      ],
+      "rating": "0",
+      "name": "Hilfiger Lounge Hoodie",
+      "description": "Tommy Hilfiger men's hoodie. For those who demand comfort when lounging, we bring you our drawstring hoodie in a soft, stretch cotton knit.",
+      "details": [
+        "Regular Fit.",
+        "57% cotton, 38% modal, 5% elastane.",
+        "Matching style available while supplies last.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "5acf",
+      "categoryName": "men",
+      "subcategoryName": "shoes",
+      "generalcategoryName": "shoes",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "purple",
+        "fuchsia",
+        "pink",
+        "rose"
+      ],
+      "size": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price": "99",
+      "discount": "30",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729263341/d3auilbyr9bkd3sljwua.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729263355/qwfemrjq5wluhancwzlj.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729263366/zkq0dmobakkeoz6zoznr.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729263375/sxrlkk6gtll1eelsfvji.webp"
+      ],
+      "rating": "0",
+      "name": "Low Cut Logo Leather Mix Sneaker",
+      "description": "Tommy Hilfiger men's sneaker. This minimalistic classic boasts a low-cut silhouette, a generously padded footbed and a high grip vulcanized rubber sole. A versatile partner for anything from crisp chinos to denim shorts.",
+      "details": [
+        "70% leather, 20% nylon, 10% polyurethane.",
+        "Padded footbed, vulcanized rubber sole.",
+        "Leather cleaner.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "0288",
+      "categoryName": "men",
+      "subcategoryName": "shoes",
+      "generalcategoryName": "shoes",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "red",
+        "gray",
+        "orange",
+        "yellow"
+      ],
+      "size": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price": "99",
+      "discount": "30",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729264393/nfkrnc3ebrkaachxmiv3.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729264404/puw6xf78gx45kfkoufqe.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729264418/ud0zvtscqselcmimexyh.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729264589/nyirrph3rbfd7jleisoa.webp"
+      ],
+      "rating": "0",
+      "name": "TJ Brooklyn Suede Sneaker",
+      "description": "Tommy Hilfiger men's sneaker. Inspired by New York street basketball for an authentic energy, these varsity sneakers are crafted from suede for a premium feel, with mixed-texture panels and a TJ badge on the tongue. Part of our Tommy Jeans collection.",
+      "details": [
+        "100% suede.",
+        "Suede upper, polyester lining.",
+        "Mixed texture panels, ventilation detailing on upper, 3D midsoles.",
+        "Polyurethane and thermoplastic rubber removable insock, rubber outsole.",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "3d08",
+      "categoryName": "men",
+      "subcategoryName": "shoes",
+      "generalcategoryName": "shoes",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "lime",
+        "green",
+        "sky",
+        "blue"
+      ],
+      "size": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price": "149",
+      "discount": "30",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729264859/gva6qp1fdiw2e9q63ef5.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729264870/kaz4gazmuenmqjoueibs.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729264881/mnequtvu3czeitr5tmti.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729264890/ktstebjm18bwejlun8pi.webp"
+      ],
+      "rating": "0",
+      "name": "Lightweight Leather Chelsea Boot",
+      "description": "Tommy Hilfiger men's boot. Embrace the timeless appeal of the Chelsea boot with this leather design, updated with paper-infused rubber outsoles for a lightweight, flexible feel.",
+      "details": [
+        "100% leather.",
+        "Leather upper, polyurethane and nylon lining.",
+        "Polyurethane insock, thermoplastic rubber and paper outsole.",
+        "Elastic side panels, lightweight, pull-on loop.",
+        "Sole height: 1.26'.",
+        "Leather cleaner.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "097c",
+      "categoryName": "men",
+      "subcategoryName": "shoes",
+      "generalcategoryName": "shoes",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "violet",
+        "purple",
+        "fuchsia",
+        "pink"
+      ],
+      "size": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price": "189",
+      "discount": "38",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729265075/gjclvhbmoo7ubi1hablc.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729265086/hxqfogixztn7ndlkpwro.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729265096/fkzxrdwdzki2kpytdw7g.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729265105/kigqqqux3mqzmlpxlc1p.webp"
+      ],
+      "rating": "0",
+      "name": "Water-Repellent Leather Brogue Boot",
+      "description": "Tommy Hilfiger men's boot. Traditional brogue detailing lends a stylish touch to these lace-up boots, while warm linings and water-repellent leather make them ideal for tran-seasonal wear.",
+      "details": [
+        "100% leather.",
+        "Leather upper, polyester lining.",
+        "Polyurethane insock, thermoplastic rubber outsole.",
+        "Brogue detailing, water repellent, metal speed hooks",
+        "Sole height: 1.26'.",
+        "Leather cleaner.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "d845",
+      "categoryName": "men",
+      "subcategoryName": "shoes",
+      "generalcategoryName": "shoes",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "rose",
+        "red",
+        "gray",
+        "orange"
+      ],
+      "size": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price": "119",
+      "discount": "36",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729265419/otvjz4kijt3jj31l3uee.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729265432/g6ys7tqmhd8nnrzfb0kn.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729265446/n38r7el5ukoh2pgleute.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729265456/s8tdqi7kztp62efry3hg.webp"
+      ],
+      "rating": "0",
+      "name": "Hilfiger Leather Mix Sneaker",
+      "description": "Tommy Hilfiger men's sneaker. Update your go-to casual kicks with these cleated basketball-inspired sneakers, made from leather with a mixed panel construction and branding details.",
+      "details": [
+        "90% leather, 10% polyurethane.",
+        "Padded footbed, rubber sole.",
+        "Leather cleaner.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "1f9c",
+      "categoryName": "men",
+      "subcategoryName": "bags-wallets",
+      "generalcategoryName": "bags",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "yellow",
+        "lime",
+        "green",
+        "sky"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "159",
+      "discount": "32",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729267485/yh47dwlicf1nmjavbnpo.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729267608/ub3lrwzu7umfbkoiqyfj.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729267620/tzz6ezvsp0qnf0qxd1rl.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729267632/suztyvnj3cgphzxnkiw2.webp"
+      ],
+      "rating": "0",
+      "name": "Tommy Stripe Backpack",
+      "description": "Tommy Hilfiger unisex bag. With iconic signature branding throughout, this backpack is a testament to our heritage. Made from durable, pebble-textured fabric, it features a dual zip closure with two main compartments, a padded laptop sleeve, and an adjustable shoulder straps for easy toting—it's the perfect companion for your work essentials or daily necessities.",
+      "details": [
+        "100% polyurethane.",
+        "Dual zip closure, adjustable shoulder straps.",
+        "Two main compartment, padded laptop sleeve.",
+        "Internal zip pocket, external zip pocket.",
+        "4.4' (H) 12.8' (L) 18.4' (W).",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "1f40",
+      "categoryName": "men",
+      "subcategoryName": "bags-wallets",
+      "generalcategoryName": "wallets",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "blue",
+        "violet",
+        "purple",
+        "fuchsia"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "74",
+      "discount": "22",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729267879/jjydcdtdpwnume5bnii5.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729267888/px7zdkld1v3iizd2d4l3.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729267898/uocenolaaah1xqe5o0f5.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729267913/ffxdrr1e2phwxzoiizcb.webp"
+      ],
+      "rating": "0",
+      "name": "Tommy Stripe Leather Coin Wallet",
+      "description": "Tommy Hilfiger men's wallet. With iconic signature branding throughout, this bifold wallet is a testament to our heritage. Made from smooth leather with pebble-textured accents, it features plenty of slots for your cards and currency, and internal coin pocket.",
+      "details": [
+        "100% leather.",
+        "Bifold design, slots for cards and currency, internal coin pocket.",
+        "4' (H) 3.6' (L) 0.8' (W).",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "7be1",
+      "categoryName": "men",
+      "subcategoryName": "bags-wallets",
+      "generalcategoryName": "bags",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "pink",
+        "rose",
+        "red",
+        "gray"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "79",
+      "discount": "16",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729332005/vphme3r4zqyqpj1spfru.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729332019/fbmrqhvhvahafs6qmwtu.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729332028/k54krkl56ogwv1qjohsy.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729332037/lryufihxx9epeogqjbw7.webp"
+      ],
+      "rating": "0",
+      "name": "Tommy Stripe Washbag",
+      "description": "Tommy Hilfiger men's bag. With iconic signature branding throughout, this washbag is a testament to our heritage. Made from durable, pebble-textured fabric, it features a zip closure with an easy carry strap—it's the perfect companion for your daily necessities.",
+      "details": [
+        "100% polyurethane.",
+        "Zip closure, carry strap.",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "c61e",
+      "categoryName": "men",
+      "subcategoryName": "bags-wallets",
+      "generalcategoryName": "bags",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "orange",
+        "yellow",
+        "lime",
+        "green"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "129",
+      "discount": "65",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729332454/wftpdebz42conv4td038.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729332467/rn63eaqungkezfyajqiz.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729332476/nmfj6osqzscyf8aiccsi.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729332484/a0esuvgi8kcdsdxp59k3.webp"
+      ],
+      "rating": "0",
+      "name": "Stripe Stitch Dome Backpack",
+      "description": "Tommy Hilfiger men's bag. Our red, white and blue stitch stripe defines this sleek backpack, featuring zip compartments for plenty of room for your belongings, a padded laptop sleeve, and a comfortable adjustable shoulder straps for easy toting.",
+      "details": [
+        "90% polyester, 10% recycled polyester.",
+        "Zip closure, adjustable shoulder straps.",
+        "Main compartment, padded laptop sleeve, external zip pocket.",
+        "18' (H) 14' (L) 8' (W).",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "5d25",
+      "categoryName": "men",
+      "subcategoryName": "bags-wallets",
+      "generalcategoryName": "wallets",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "sky",
+        "blue",
+        "violet",
+        "purple"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "49",
+      "discount": "15",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729332888/a06reu7d5i8adbmotrtp.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729332899/yvnzj5ttfrvmqeomih6i.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729332911/uryr9sywknxwmtdr7k3y.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729332923/m822z6x9fb0wuelrn6pv.webp"
+      ],
+      "rating": "0",
+      "name": "Stripe Leather Card Holder",
+      "description": "Tommy Hilfiger men's wallet. Our red, white and blue textured stripe defines this sleek leather wallet, featuring multiple card slots to keep your cards and currency safe and secure.",
+      "details": [
+        "100% leather.",
+        "Multiple card slots, billfold pocket.",
+        "3.08' (H) 4.12' (L) 0.2' (W).",
+        "Leather cleaner.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "bbb0",
+      "categoryName": "men",
+      "subcategoryName": "hats-gloves-scarves",
+      "generalcategoryName": "hats",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "fuchsia",
+        "pink",
+        "rose",
+        "red"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "29",
+      "discount": "6",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729333229/owmgkms02ulwaanbpztn.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729333243/hhduu7rfxcw34uy4cd9e.webp"
+      ],
+      "rating": "0",
+      "name": "Tommy Baseball Cap",
+      "description": "Tommy Hilfiger unisex hat. Rain or shine, our classic baseball cap has got you covered.",
+      "details": [
+        "100% cotton.",
+        "Adjustable strap, microflag on front.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "2796",
+      "categoryName": "men",
+      "subcategoryName": "hats-gloves-scarves",
+      "generalcategoryName": "scarves",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "gray",
+        "orange",
+        "yellow",
+        "lime"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "159",
+      "discount": "48",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729333497/ldn3t2ywbx1tj03gnuxx.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729333507/rultamipj3eergg2xjrr.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729333523/xqvwexfq8uxi1mtmt6rh.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729333536/qtrao6zw9fdq7lvenwzz.webp"
+      ],
+      "rating": "0",
+      "name": "Fringed Cashmere Scarf",
+      "description": "Tommy Hilfiger men's scarf. Keep your cold-weather accessories luxuriously simple with this fringed scarf, woven from sumptuously soft cashmere and detailed with an enamel flag.",
+      "details": [
+        "100% cashmere.",
+        "Fringe trim.",
+        "Measures: 75' x 13'.",
+        "Hand wash.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "d358",
+      "categoryName": "men",
+      "subcategoryName": "hats-gloves-scarves",
+      "generalcategoryName": "gloves",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "green",
+        "sky",
+        "blue",
+        "violet"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "89",
+      "discount": "27",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729333698/aockxec2lmrgayononpk.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729333709/nmmaxf4vo12il0toor7p.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729333720/ks4kxk6q7sksasysuamh.webp"
+      ],
+      "rating": "0",
+      "name": "Stripe Leather Mix Glove",
+      "description": "Tommy Hilfiger men's glove. Warm someone's heart and hands with these leather mix gloves, featuring comfy rib-knit cuffs with signature detailing for textural interest.",
+      "details": [
+        "90% leather, 5% wool, 5% nylon.",
+        "Hand wash.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "4e7d",
+      "categoryName": "men",
+      "subcategoryName": "hats-gloves-scarves",
+      "generalcategoryName": "hats",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "purple",
+        "fuchsia",
+        "pink",
+        "rose"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "44",
+      "discount": "13",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729334192/ovtgobh8kyhngdswvbd4.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729334203/c3fbdd4ycyl8akavgxa6.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729334213/znjxhpqsocqdkfzmwlg0.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729334226/litvebfyts9zdxmvsm8x.webp"
+      ],
+      "rating": "0",
+      "name": "Tommy Patch Beanie",
+      "description": "Tommy Hilfiger men's hat. Invest in tried-and-tested essentials with this beanie, made from warming yet breathable cotton and featuring a rib-knit cuff for texture.",
+      "details": [
+        "100% organic cotton.",
+        "Turn-up rib-knit cuff.",
+        "Machine washable.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "cdf9",
+      "categoryName": "men",
+      "subcategoryName": "hats-gloves-scarves",
+      "generalcategoryName": "hats",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "red",
+        "gray",
+        "orange",
+        "yellow"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "69",
+      "discount": "21",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729334417/p5sld0royyyv0f8hqrda.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729334429/wmgbdbfgmbp6n9j1ztxv.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729334438/m8kkrvkmp5kljuesma9n.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729334446/xqmizjzz1tazrhpyyokc.webp"
+      ],
+      "rating": "0",
+      "name": "Signature Twisted Yarn Beanie",
+      "description": "Tommy Hilfiger men's hat. Add a touch of Tommy spirit to your cold-weather outfit with this cozy wool-blend beanie, featuring a twisted yarn construction in our signature red, white, and blue colors.",
+      "details": [
+        "79% wool, 21% nylon.",
+        "Turn-up cuff.",
+        "Hand wash.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "131e",
+      "categoryName": "men",
+      "subcategoryName": "watches-jewelry",
+      "generalcategoryName": "watches",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "lime",
+        "green",
+        "sky",
+        "blue"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "215",
+      "discount": "43",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729520102/m9vq6zkdxhfjmrauymmd.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729520115/svhpwlqricmdwmcgn8mm.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729520128/o7xpdctmkxawo4tgdfvo.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729520144/z5vmsjqytmrivphhjs5k.webp"
+      ],
+      "rating": "0",
+      "name": "44MM Blue Dial Skeleton Watch",
+      "description": "Tommy Hilfiger men's watch. With our latest dress watch, it's all in the details. This modern timepiece features a multi-layer dial with applied indexes and Roman numerals, an intricate skeleton dial, and a comfortable mesh strap.",
+      "details": [
+        "44mm blue ion-plated case.",
+        "Blue skeleton dial, mesh bracelet.",
+        "Multifunction movement, sub-dials.",
+        "Weekday sub-dial at 12 o'clock, 24-hour sub-dial at 9 o'clock, date sub-dial at 6 o'clock.",
+        "Water resistant up to 50 meters.",
+        "2-year limited warranty.",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "ee3f",
+      "categoryName": "men",
+      "subcategoryName": "watches-jewelry",
+      "generalcategoryName": "watches",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "violet",
+        "purple",
+        "fuchsia",
+        "pink"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "275",
+      "discount": "55",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729522811/nfdn0d3yf6mdayglwmjr.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729522839/p4hjgvmg1moy94nnah77.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729522852/p4qz5rta1n5z4xaqnhhv.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729522862/cosmcgtxdxlmcc9agpmo.webp"
+      ],
+      "rating": "0",
+      "name": "40MM Automatic Blue Diver Watch",
+      "description": "Tommy Hilfiger men's watch. It's about time—a Tommy branded watch that is designed to move with you is finally here. Our latest automatic watch features a self-winding Japanese mechanical movement that keeps time as you move your wrist, in a classic diver silhouette with a rotating bezel that's fit for the office and the weekend.",
+      "details": [
+        "40mm stainless steel case.",
+        "Rotating blue bezel, white dial, leather strap.",
+        "Automatic three-hand movement, date window.",
+        "Water resistant up to 100 meters.",
+        "2-year limited warranty.",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "b817",
+      "categoryName": "men",
+      "subcategoryName": "watches-jewelry",
+      "generalcategoryName": "watches",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "rose",
+        "red",
+        "gray",
+        "orange"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "65",
+      "discount": "20",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729523172/op5krgxbuh0qyrst8bz2.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729523186/elpntj41wbgha6b2rqoc.webp"
+      ],
+      "rating": "0",
+      "name": "Leather Braided Double Bracelet",
+      "description": "Tommy Hilfiger men's bracelet. Punch up your casual wardrobe with our leather braided double bracelet, featuring our bold Monotype logo and a magnetic closure to ensure a secure fit.",
+      "details": [
+        "Leather.",
+        "Stainless steel logo and magnetic closure.",
+        "Inner circumference: 7.5'.",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "e101",
+      "categoryName": "men",
+      "subcategoryName": "watches-jewelry",
+      "generalcategoryName": "watches",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "yellow",
+        "lime",
+        "green",
+        "sky"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "95",
+      "discount": "29",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729678279/orskocg2iwoyrt02fbe0.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729678296/wdvregwww5ohergn7kjf.webp"
+      ],
+      "rating": "0",
+      "name": "Flag Stripe Blue Ion-Plated Bracelet",
+      "description": "Tommy Hilfiger men's bracelet. Our blue ion-plated link bracelet lends a sophisticated edge to your ensembles. It's complete with our flag logo adjustable magnetic closure.",
+      "details": [
+        "Blue ion-plated stainless steel.",
+        "Magnetic closure.",
+        "Inner circumference: Adjustable up to 7.5'.",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "9876",
+      "categoryName": "men",
+      "subcategoryName": "watches-jewelry",
+      "generalcategoryName": "watches",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "blue",
+        "violet",
+        "purple",
+        "fuchsia"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "185",
+      "discount": "37",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729678422/gpq9yhhm7ehj0dolizmu.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729678432/sghxvlgen77phiuausv9.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729678442/nuh7rg2a4ki2kslh4xvw.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729678451/r8ccubj0ybipd8xhlgh6.webp"
+      ],
+      "rating": "0",
+      "name": "Sport Watch with Stainless Steel Mesh Bracelet",
+      "description": "Tommy Hilfiger men’s watch. Presenting your new go-to timepiece in a clean, modern design with a stainless steel case and mesh bracelet. Featuring a trio of textured sub-dials with a date window and a dimensional bold case with a coin-edged bezel.",
+      "details": [
+        "43mm stainless steel case, black dial and bezel, stainless steel mesh bracelet, multifunction movement, sub-dials.",
+        "Water resistant up to 50 meters.",
+        "2-year limited warranty.",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "4359",
+      "categoryName": "men",
+      "subcategoryName": "belts",
+      "generalcategoryName": "belts",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "orange",
+        "yellow",
+        "lime",
+        "green"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "59",
+      "discount": "18",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729679518/hdadyaaeqnk2kyhtnnfi.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729679531/jmhcpfpsvwqvxgq7pepj.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729679540/pg81ubjtomzafjzrm8sx.webp"
+      ],
+      "rating": "0",
+      "name": "Stripe Stitch Leather Belt",
+      "description": "Tommy Hilfiger men's belt. This leather belt showcases a subtle branded effect, with a signature stitch design and a debossed Hilfiger monotype logo.",
+      "details": [
+        "100% leather.",
+        "1.38' (W).",
+        "For belts, we recommend selecting one size up from your usual pant waist size. For example, select a size 34 belt for a US 32 waist pant (see our Style Guide for further reference).",
+        "Leather cleaner.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "ad8d",
+      "categoryName": "men",
+      "subcategoryName": "belts",
+      "generalcategoryName": "belts",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "sky",
+        "blue",
+        "violet",
+        "purple"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "74",
+      "discount": "22",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729679781/vmt3pi4dqvxphjpznrzq.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729679791/mtmjfvk2tkoo0rr4wdeu.webp"
+      ],
+      "rating": "0",
+      "name": "Braided Leather Belt",
+      "description": "Tommy Hilfiger men's belt. This leather belt is all about accessorizing with texture, featuring an allover woven design and a rounded metal buckle.",
+      "details": [
+        "100% leather.",
+        "1.38' (W).",
+        "For belts, we recommend selecting one size up from your usual pant waist size. For example, select a size 34 belt for a US 32 waist pant (see our Style Guide for further reference).",
+        "Leather cleaner.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "36f8",
+      "categoryName": "men",
+      "subcategoryName": "belts",
+      "generalcategoryName": "belts",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "fuchsia",
+        "pink",
+        "rose",
+        "red"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "74",
+      "discount": "22",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729679889/sca82yauhwsug83zgywi.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729679903/rfbiwqbwgw5kjzhvuvmu.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729679913/mfkkxcjb7cgpjjmca2e6.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729679922/wtnxmkpbsooozjgardmx.webp"
+      ],
+      "rating": "0",
+      "name": "Reversible Textured Leather Belt",
+      "description": "Tommy Hilfiger men's belt. Distinguished by a logo buckle, our latest leather belt reverses from black to brown, making it a versatile choice for any man's wardrobe. Now you just need the shoes to match.",
+      "details": [
+        "100% leather.",
+        "1.38' (W).",
+        "For belts, we recommend selecting one size up from your usual pant waist size. For example, select a size 34 belt for a US 32 waist pant (see our Style Guide for further reference).",
+        "Leather cleaner.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "972a",
+      "categoryName": "men",
+      "subcategoryName": "belts",
+      "generalcategoryName": "belts",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "gray",
+        "orange",
+        "yellow",
+        "lime"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "69",
+      "discount": "21",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729680012/sd8ye3edfuoy8giykcqp.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729680023/s8hbuq7blqdfvgjhtop6.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729680032/hj5cbv1jnjrheyvu5kxs.webp"
+      ],
+      "rating": "0",
+      "name": "Leather Mix Belt",
+      "description": "Tommy Hilfiger men's belt. A mix of webbing and leather with an intricate cut-out design makes this belt a premium choice for casual outfits.",
+      "details": [
+        "100% leather.",
+        "1.38' (W).",
+        "For belts, we recommend selecting one size up from your usual pant waist size. For example, select a size 34 belt for a US 32 waist pant (see our Style Guide for further reference).",
+        "Leather cleaner.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "35fc",
+      "categoryName": "men",
+      "subcategoryName": "belts",
+      "generalcategoryName": "belts",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "green",
+        "sky",
+        "blue",
+        "violet"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "69",
+      "discount": "21",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729680127/bbmt7ow4qk1oeilrmmwa.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729680146/tqsct8bigcyrkxqrg7gm.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729680156/tuie9i4mjrnyjzkt3pb7.webp"
+      ],
+      "rating": "0",
+      "name": "Stripe Braided Leather Belt",
+      "description": "Tommy Hilfiger men's belt. For a Tommy twist on tradition, our leather belt features a braided stripe and logo-branded stainless steel buckle.",
+      "details": [
+        "100% leather.",
+        "1.4' (W).",
+        "Leather cleaner.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "aaa0",
+      "categoryName": "men",
+      "subcategoryName": "fragrance",
+      "generalcategoryName": "fragrance",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "green"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "83",
+      "discount": "0",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729680354/qwji67it0s6hk1lh00nd.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729680364/twulelwkiuegqptpcta9.webp"
+      ],
+      "rating": "0",
+      "name": "Impact Together Fragrance 3.4oz",
+      "description": "Tommy Hilfiger men’s fragrance. Impact Eau de Toilette is a woody aromatic men’s scent to help him take on the world. Bold and dynamic with notes of red apple, elemi, fresh cyprus, and woody musks like sandalwood and cedarwood, it’s an everyday anthem for challenging the status quo.",
+      "details": [
+        "3.4oz eau de toilette spray.",
+        "Top notes: Red apple, juicy grapefruit, bitter orange, bergamot, pink peppercorn.",
+        "Middle notes: Elemi, fresh cyprus, clary sage, labdanum.",
+        "Base notes: Cedarwood, golden amber, musk, creamy sandalwood, Akigalawood®.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "dc7b",
+      "categoryName": "men",
+      "subcategoryName": "fragrance",
+      "generalcategoryName": "fragrance",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "sky"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "69",
+      "discount": "0",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729682267/l7vopyuymemxbdufz9ps.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729682278/ikysx5sjvbyzv5coepba.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729682293/icukgtdp2pbpyedw32iz.webp"
+      ],
+      "rating": "0",
+      "name": "Tommy Vibrant Summer Fragrance 3.4oz",
+      "description": "Tommy Hilfiger men's fragrance. Our Tommy Vibrant Summer fragrance captures the bliss of a perfect summer day at the beach when the salty sea dances with the sun’s heat. A fresh, everyday scent of lemony cardamom, rosemary, patchouli musk.",
+      "details": [
+        "3.4oz eau de toilette spray.",
+        "Top notes: Cardamom.",
+        "Middle notes: Rosemary.",
+        "Base notes: Patchouli.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "9eda",
+      "categoryName": "men",
+      "subcategoryName": "fragrance",
+      "generalcategoryName": "fragrance",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "blue"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "90",
+      "discount": "18",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729683265/lvibeat18ncua4onmit4.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729683284/mzo8ahgnqtmqwwmuknt9.webp"
+      ],
+      "rating": "0",
+      "name": "Impact Intense Fragrance 3.4oz",
+      "description": "Tommy Hilfiger men's fragrance. For those who reach for the top and strive beyond, Impact Intense Eau de Parfum is an intense oriental woody scent that takes success to new heights. Featuring key notes of crisp red apple, ambery chestnut accord and akigalawood.",
+      "details": [
+        "3.4oz eau de parfum spray.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "36cf",
+      "categoryName": "men",
+      "subcategoryName": "fragrance",
+      "generalcategoryName": "fragrance",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "violet"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "69",
+      "discount": "14",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729683392/mbvjocivmf745pmrvg0q.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729683423/vmmregitcgtyogwa98ub.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729683436/oob3nawfcsmy3mnllkjw.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729683445/lcty3retdomqtru8wg7s.webp"
+      ],
+      "rating": "0",
+      "name": "Tommy Now for Men 3.4oz",
+      "description": "Tommy Hilfiger men's fragrance. Top notes of Tommy Now include bergamot and mandarin, middle notes of geranium, ginger, and cardamom oil and base notes of amberwood and moss for a new refreshing scent for men.",
+      "details": [
+        "3.4oz Eau de Toilette Spray.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "de73",
+      "categoryName": "men",
+      "subcategoryName": "sunglasses",
+      "generalcategoryName": "sunglasses",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "purple"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "165",
+      "discount": "33",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729683582/rrbikj2kfztslml2hkhy.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729683592/nc9xk6xcgjkrzj4qthoa.webp"
+      ],
+      "rating": "0",
+      "name": "Pilot Sunglasses",
+      "description": "Tommy Hilfiger men's sunglasses. Styled in a universally flattering shape, these classic sunglasses fly with everything.",
+      "details": [
+        "UV-protected, polycarbonate lenses.",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "0235",
+      "categoryName": "men",
+      "subcategoryName": "sunglasses",
+      "generalcategoryName": "sunglasses",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "fuchsia"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "140",
+      "discount": "28",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729683904/qyul62nabzgkpd4wf95q.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729683915/jo1x2cnjbptnkdh9yjj8.webp"
+      ],
+      "rating": "0",
+      "name": "Square Frame Sunglasses",
+      "description": "Tommy Hilfiger men’s sunglasses. The future is bright in these shades boasting classic square frames with rounded edges for a universally flattering finish. Styled in lightweight acetate frames and made complete with Tommy Hilfiger branding at the temples.",
+      "details": [
+        "UV-protected lenses, acetate frames, logo branding at temples.",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "6434",
+      "categoryName": "men",
+      "subcategoryName": "sunglasses",
+      "generalcategoryName": "sunglasses",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "pink"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "140",
+      "discount": "28",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729684541/xeibox9qzcgfxitkc5bo.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729684560/vf1ghkvnszy5slxhvmrp.webp"
+      ],
+      "rating": "0",
+      "name": "Square Frame Sunglasses",
+      "description": "Tommy Hilfiger men’s sunglasses. The future is bright in these shades boasting classic square frames with rounded edges for a universally flattering finish. Styled in lightweight acetate frames and made complete with Tommy Hilfiger branding at the temples.",
+      "details": [
+        "UV-protected lenses, acetate frames, logo branding at temples.",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "42dc",
+      "categoryName": "men",
+      "subcategoryName": "sunglasses",
+      "generalcategoryName": "sunglasses",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "rose"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "165",
+      "discount": "33",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729684680/eja40gwxcouj7epxoc6p.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729684692/szvy6rqvrqix5edhiut7.webp"
+      ],
+      "rating": "0",
+      "name": "Navigator Frame Sunglasses",
+      "description": "Tommy Hilfiger men's sunglasses. Styled in a navigator silhouette with a double bridge, these sunglasses strike the balance between form and function. Designed from stainless steel with lightweight carbon fiber temples, this pair features polarized lenses, and subtle branding for added interest.",
+      "details": [
+        "UV-protected, polycarbonate polarized lenses; stainless steel frame with carbon fiber temple and rubber tip.",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "65aa",
+      "categoryName": "men",
+      "subcategoryName": "sunglasses",
+      "generalcategoryName": "sunglasses",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "red"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "140",
+      "discount": "28",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729684789/si2wybbnyzsalquqom27.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729684802/cdwxvvcrd8ojedr4xfgn.webp"
+      ],
+      "rating": "0",
+      "name": "Rectangle Frame Sport Sunglasses",
+      "description": "Tommy Hilfiger men’s sunglasses. Our versatile shades feature an easy-to-wear rectangular shape in lightweight rubber, with sporty design features like adjustable temples and flexible hinges for total comfort. Made complete with Tommy logo branding at the temple.",
+      "details": [
+        "UV-protected polycarbonate lenses, rubber frames, logo branding at temples.",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "c624",
+      "categoryName": "men",
+      "subcategoryName": "umbrellas",
+      "generalcategoryName": "umbrellas",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "gray",
+        "orange",
+        "yellow",
+        "lime"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "39",
+      "discount": "16",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729684994/wzshqqxuxaf0rvgeruax.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729685009/aljhq1h4nbrdizn3sru3.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729685019/rjgsekmdx23z2tfaiypp.webp"
+      ],
+      "rating": "0",
+      "name": "Flag Umbrella",
+      "description": "Tommy Hilfiger umbrella. Weather the elements in classic Hilfiger style. Our trusty umbrella features a powerful spring-loaded release and dependable, windproof construction.",
+      "details": [
+        "100% polyester.",
+        "Spring-loaded button opening, wrist strap.",
+        "38.5' Diameter, 12' Folded.",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "bc32",
+      "categoryName": "men",
+      "subcategoryName": "umbrellas",
+      "generalcategoryName": "umbrellas",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "green",
+        "sky",
+        "blue",
+        "violet"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "39",
+      "discount": "16",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729685119/bbdewhitca3amzvhkh7z.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729685134/nnsgprht0ecr3wgmbnnd.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729685144/fidsv6knon78b2tvnysc.webp"
+      ],
+      "rating": "0",
+      "name": "Flag Umbrella",
+      "description": "Tommy Hilfiger umbrella. Weather the elements in classic Hilfiger style. Our trusty umbrella features a powerful spring-loaded release and dependable, windproof construction.",
+      "details": [
+        "100% polyester.",
+        "Spring-loaded button opening, wrist strap.",
+        "38.5' Diameter, 12' Folded.",
+        "Spot clean.",
+        "Imported."
+      ]
+    },
+    {
+      "id": "2682",
+      "categoryName": "men",
+      "subcategoryName": "umbrellas",
+      "generalcategoryName": "umbrellas",
+      "subName": "Shoes & Accessories",
+      "color": [
+        "purple",
+        "fuchsia",
+        "pink",
+        "rose"
+      ],
+      "size": [
+        "xs"
+      ],
+      "price": "39",
+      "discount": "16",
+      "images": [
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729685269/xvwehngzaccls2degyu1.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729685281/ylsumiwxnxwnf5lrlbak.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729685293/g7kpmzapq7nlmwaulfza.webp",
+        "http://res.cloudinary.com/djlix30nq/image/upload/v1729685347/epzo5oqnzdnkuvrlmuop.webp"
+      ],
+      "rating": "0",
+      "name": "Tommy Logo Plaid Umbrella",
+      "description": "Tommy Hilfiger umbrella. Weather the elements in classic Tommy style with this fall-ready plaid umbrella, featuring a powerful spring-loaded release and dependable, windproof construction.",
+      "details": [
+        "100% polyester.",
+        "Spring-loaded button opening, wrist strap.",
+        "38.5' Diameter, 12' Folded.",
+        "Spot clean.",
+        "Imported."
+      ]
+    }
+  ],
+  "code": [
+    {
+      "name": "BalacaPox",
+      "precent": "50",
+      "id": "8fc0"
+    },
+    {
+      "name": "OrtalamaPox",
+      "precent": "80",
+      "id": "fe28"
+    }
+  ]
+}
