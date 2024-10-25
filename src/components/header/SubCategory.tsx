@@ -3,7 +3,7 @@ import { useAllSubByIdQuery } from '../../store/Api';
 import { SubCategory } from '../../types/Type';
 
 interface SubcategoryTypeComponent {
-    id: number;
+    id: string;
     name: string;
 }
 

@@ -16,7 +16,7 @@ export const Api = createApi({
             })
         }),
         getCategoryById: builder.query({
-            query: (id: number) => ({
+            query: (id: string) => ({
                 url: `/category?id=${id}`
             })
         }),
@@ -35,13 +35,13 @@ export const Api = createApi({
                 url: `/user`
             })
         }),
-        allSubCategoryById: builder.query<Array<Sub>, number>({
-            query: (id: number) => ({
+        allSubCategoryById: builder.query<Array<Sub>, string>({
+            query: (id: string) => ({
                 url: `/sub?categoryId=${id}`
             })
         }),
-        allSubById: builder.query<Array<SubCategory>, number>({
-            query: (id: number) => ({
+        allSubById: builder.query<Array<SubCategory>, string>({
+            query: (id: string) => ({
                 url: `/subcategory?subId=${id}`
             })
         }),

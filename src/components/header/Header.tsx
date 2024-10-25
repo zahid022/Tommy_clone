@@ -6,14 +6,39 @@ import SignInSidebar from "../account/SignInSidebar";
 import SubCategoryComp from "./SubCategory";
 import { useAppDispatch, useAppSelector } from "../../store/Hooks";
 import { setCart } from "../../store/BasketSlice";
+import { SidebarType } from "./Sidebar";
 
-function Header() {
+function Header({setSidebarFlag, sidebarFlag} : SidebarType) {
     const [flag, setFlag] = useState<boolean>(false)
     const location = useLocation();
     const [scrollPosition, setScrollPosition] = useState<number>(0);
-    const [subCategoryId, setSubCategoryId] = useState<number | null>(null)
+    const [subCategoryId, setSubCategoryId] = useState<string | null>(null)
     const navigate = useNavigate()
     const dispatch = useAppDispatch()
+
+    const [isMobile, setIsMobile] = useState(window.innerWidth < 992)
+
+    useEffect(() => {
+        const handleResize = () => {
+            setIsMobile(window.innerWidth < 992)
+        }
+        window.addEventListener('resize', handleResize)
+        return () => {
+            window.removeEventListener('resize', handleResize)
+        }
+    }, [])
+
+    function handleOpenCart(){
+        if(isMobile){
+            navigate(`/en/cart`)
+        }else{
+            dispatch(setCart(true))
+        }
+    }
+
+    function handleOpenSidebar(){
+        setSidebarFlag(!sidebarFlag)
+    }
 
     const token = localStorage.getItem("token")
 
@@ -31,9 +56,9 @@ function Header() {
 
     const { data, isLoading } = useAllCategoryQuery()
 
-    const { data: subData, isLoading: subIsLoading } = useAllSubCategoryByIdQuery(subCategoryId as number, { skip: subCategoryId === null });
+    const { data: subData, isLoading: subIsLoading } = useAllSubCategoryByIdQuery(subCategoryId as string, { skip: subCategoryId === null });
 
-    const { data: categoryByIdData, isLoading: imgLoad } = useGetCategoryByIdQuery(subCategoryId as number, { skip: subCategoryId === null })
+    const { data: categoryByIdData, isLoading: imgLoad } = useGetCategoryByIdQuery(subCategoryId as string, { skip: subCategoryId === null })
 
     const handleScroll = () => {
         const position = window.scrollY;
@@ -49,7 +74,7 @@ function Header() {
         };
     }, []);
 
-    function handleSignOut(){
+    function handleSignOut() {
         localStorage.removeItem("token")
         localStorage.removeItem("user")
         setFlag(!flag)
@@ -453,7 +478,7 @@ function Header() {
                                     <span className={`text-[14px] hover:underline ${!isTransparent ? 'text-[#00174f]' : hoverPosition ? 'text-[#00174f]' : scrollPosition < 40 ? 'text-white' : 'text-[#00174f]'}`}>{user && user.firstName}</span>
                                 </button>
                                 <button
-                                    onClick={() => dispatch(setCart(true))}
+                                    onClick={handleOpenCart}
                                     className="px-1 relative">
                                     <span className={`${!isTransparent ? 'text-[#00174f]' : hoverPosition ? 'text-[#00174f]' : scrollPosition < 40 ? 'text-white' : 'text-[#00174f]'} absolute text-[12px] font-medium -top-3 -right-1`}>
                                         {basket.length > 0 && basket.length}
@@ -462,7 +487,9 @@ function Header() {
                                         <path d="M160 112l0 48 128 0 0-48c0-35.3-28.7-64-64-64s-64 28.7-64 64zm-48 96l-64 0 0 208c0 26.5 21.5 48 48 48l256 0c26.5 0 48-21.5 48-48l0-208-64 0 0 56c0 13.3-10.7 24-24 24s-24-10.7-24-24l0-56-128 0 0 56c0 13.3-10.7 24-24 24s-24-10.7-24-24l0-56zm0-48l0-48C112 50.1 162.1 0 224 0s112 50.1 112 112l0 48 64 0c26.5 0 48 21.5 48 48l0 208c0 53-43 96-96 96L96 512c-53 0-96-43-96-96L0 208c0-26.5 21.5-48 48-48l64 0z" />
                                     </svg>
                                 </button>
-                                <button className="px-1 lg:hidden">
+                                <button
+                                onClick={handleOpenSidebar}
+                                className="px-1 lg:hidden">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill={!isTransparent ? '#00174f' : hoverPosition ? '#00174f' : scrollPosition < 40 ? 'white' : '#00174f'} viewBox="0 0 448 512">
                                         <path d="M0 88C0 74.7 10.7 64 24 64l400 0c13.3 0 24 10.7 24 24s-10.7 24-24 24L24 112C10.7 112 0 101.3 0 88zM0 248c0-13.3 10.7-24 24-24l400 0c13.3 0 24 10.7 24 24s-10.7 24-24 24L24 272c-13.3 0-24-10.7-24-24zM448 408c0 13.3-10.7 24-24 24L24 432c-13.3 0-24-10.7-24-24s10.7-24 24-24l400 0c13.3 0 24 10.7 24 24z" />
                                     </svg>

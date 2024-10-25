@@ -17,6 +17,8 @@ function Home() {
       window.removeEventListener('resize', handleResize)
     }
   }, [])
+
+  
   return (
     <main>
       <HeroSection isMobile={isMobile} />

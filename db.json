@@ -1133,24 +1133,10 @@
       "cart": [
         {
           "count": 1,
-          "productId": "d574",
-          "color": "blue",
-          "size": "xs",
-          "price": 83
-        },
-        {
-          "count": 1,
-          "productId": "7027",
+          "productId": "aa80",
           "color": "sky",
-          "size": "38",
-          "price": 53
-        },
-        {
-          "count": 5,
-          "productId": "3b28",
-          "color": "violet",
-          "size": "44",
-          "price": 60
+          "size": "xs",
+          "price": 26
         }
       ]
     }

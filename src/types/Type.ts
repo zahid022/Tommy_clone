@@ -37,7 +37,7 @@ export interface Category {
     img?: string;
     name: string;
     slug: string;
-    id: number;
+    id: string;
 }
 
 export interface GeneralCategory {
@@ -48,8 +48,8 @@ export interface GeneralCategory {
 
 export interface Sub {
     name: string;
-    categoryId: number;
-    id: number;
+    categoryId: string;
+    id: string;
 }
 
 export interface SubCategory {
